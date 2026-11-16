@@ -1,0 +1,8755 @@
+[
+  {
+    "id": "barra-base-dado",
+    "nombre": "Barra Base Dado",
+    "imagen": "img/barra-base-dado.webp",
+    "tipo": [
+      "barras-recepciones"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Barras y recepciones"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "barra-borde-metal",
+    "nombre": "Barra Borde Metal",
+    "imagen": "img/barra-borde-metal.webp",
+    "tipo": [
+      "barras-recepciones"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Barras y recepciones"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "barra-dalmata",
+    "nombre": "Barra Dálmata",
+    "imagen": "img/barra-dalmata.webp",
+    "tipo": [
+      "barras-recepciones"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Barras y recepciones"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "barra-mercury",
+    "nombre": "Barra Mercury",
+    "imagen": "img/barra-mercury.webp",
+    "tipo": [
+      "barras-recepciones"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Barras y recepciones"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "barra-tablon-envejecido-de-90x40",
+    "nombre": "Barra Tablón Envejecido de 90x40",
+    "imagen": "img/barra-tablon-envejecido-de-90x40.webp",
+    "tipo": [
+      "barras-recepciones"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Barras y recepciones"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "base-abstracta",
+    "nombre": "Base Abstracta",
+    "imagen": "img/base-abstracta.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "base-trebol",
+    "nombre": "Base Trébol",
+    "imagen": "img/base-trebol.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-4-tubos-acero",
+    "nombre": "Butaco 4 Tubos Acero",
+    "imagen": "img/butaco-4-tubos-acero.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-4-tubos-plastico",
+    "nombre": "Butaco 4 Tubos Plástico",
+    "imagen": "img/butaco-4-tubos-plastico.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-4-tubos-ponque",
+    "nombre": "Butaco 4 Tubos Ponque",
+    "imagen": "img/butaco-4-tubos-ponque.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-4-tubos-tapizado",
+    "nombre": "Butaco 4 Tubos Tapizado",
+    "imagen": "img/butaco-4-tubos-tapizado.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-4-tubos-tapizado-cromo",
+    "nombre": "Butaco 4 Tubos Tapizado Cromo",
+    "imagen": "img/butaco-4-tubos-tapizado-cromo.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-4t-triplex",
+    "nombre": "Butaco 4t Triplex",
+    "imagen": "img/butaco-4t-triplex.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-4tubos-cromado-tablon-de-pino",
+    "nombre": "Butaco 4tubos Cromado Tablón de Pino",
+    "imagen": "img/butaco-4tubos-cromado-tablon-de-pino.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-anclable",
+    "nombre": "Butaco Anclable",
+    "imagen": "img/butaco-anclable.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-bogota",
+    "nombre": "Butaco Bogotá",
+    "imagen": "img/butaco-bogota.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-dorado",
+    "nombre": "Butaco Dorado",
+    "imagen": "img/butaco-dorado.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-en-formica",
+    "nombre": "Butaco en Formica",
+    "imagen": "img/butaco-en-formica.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-en-pino-envejecido",
+    "nombre": "Butaco en Pino Envejecido",
+    "imagen": "img/butaco-en-pino-envejecido.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-eva-cb",
+    "nombre": "Butaco Eva CB",
+    "imagen": "img/butaco-eva-cb.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-florencia",
+    "nombre": "Butaco Florencia",
+    "imagen": "img/butaco-florencia.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-florida",
+    "nombre": "Butaco Florida",
+    "imagen": "img/butaco-florida.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-frances-anclable",
+    "nombre": "Butaco Francés Anclable",
+    "imagen": "img/butaco-frances-anclable.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-ingles",
+    "nombre": "Butaco Inglés",
+    "imagen": "img/butaco-ingles.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-italia",
+    "nombre": "Butaco Italia",
+    "imagen": "img/butaco-italia.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-karla-negro-plastico",
+    "nombre": "Butaco Karla Negro Plástico",
+    "imagen": "img/butaco-karla-negro-plastico.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-karla-plas",
+    "nombre": "Butaco Karla Plas",
+    "imagen": "img/butaco-karla-plas.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-manhattan",
+    "nombre": "Butaco Manhattan",
+    "imagen": "img/butaco-manhattan.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-manhattan-flameado",
+    "nombre": "Butaco Manhattan Flameado",
+    "imagen": "img/butaco-manhattan-flameado.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-melisa",
+    "nombre": "Butaco Melisa",
+    "imagen": "img/butaco-melisa.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-niko-pintura",
+    "nombre": "Butaco Niko Pintura",
+    "imagen": "img/butaco-niko-pintura.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-orion",
+    "nombre": "Butaco Orion",
+    "imagen": "img/butaco-orion.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-rustico",
+    "nombre": "Butaco Rústico",
+    "imagen": "img/butaco-rustico.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-rustico-clasico-tablon-de-pino",
+    "nombre": "Butaco Rústico Clásico Tablón de Pino",
+    "imagen": "img/butaco-rustico-clasico-tablon-de-pino.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-rustico-r2",
+    "nombre": "Butaco Rústico R2",
+    "imagen": "img/butaco-rustico-r2.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-rustico-rojo-y-tapiz",
+    "nombre": "Butaco Rústico Rojo y Tapiz",
+    "imagen": "img/butaco-rustico-rojo-y-tapiz.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-sin-espaldar-asiento-en-pino",
+    "nombre": "Butaco sin Espaldar Asiento en Pino",
+    "imagen": "img/butaco-sin-espaldar-asiento-en-pino.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-tablon",
+    "nombre": "Butaco Tablón",
+    "imagen": "img/butaco-tablon.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-tokio",
+    "nombre": "Butaco Tokio",
+    "imagen": "img/butaco-tokio.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "butaco-tolix-sin-espaldar",
+    "nombre": "Butaco Tolix sin Espaldar",
+    "imagen": "img/butaco-tolix-sin-espaldar.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "combo-australia",
+    "nombre": "Combo Australia",
+    "imagen": "img/combo-australia.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "comedor-infantil",
+    "nombre": "Comedor Infantil",
+    "imagen": "img/comedor-infantil.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "comedor-infantil-1",
+    "nombre": "Comedor Infantil 1",
+    "imagen": "img/comedor-infantil-1.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "escritorio-de-profesor",
+    "nombre": "Escritorio de Profesor",
+    "imagen": "img/escritorio-de-profesor.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "especial-chester",
+    "nombre": "Especial Chester",
+    "imagen": "img/especial-chester.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "gondola-central-150",
+    "nombre": "Góndola Central 150",
+    "imagen": "img/gondola-central-150.webp",
+    "tipo": [
+      "gondolas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Gondolas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-4-tubos-acero-cromado-90x",
+    "nombre": "Juego 4 Tubos Acero Cromado 90x",
+    "imagen": "img/juego-4-tubos-acero-cromado-90x.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con acero"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-4-tubos-acero-pintura-90x",
+    "nombre": "Juego 4 Tubos Acero Pintura 90x",
+    "imagen": "img/juego-4-tubos-acero-pintura-90x.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con acero"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-4-tubos-asientos-con-formica",
+    "nombre": "Juego 4 Tubos Asientos con Formica",
+    "imagen": "img/juego-4-tubos-asientos-con-formica.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-4-tubos-triplex",
+    "nombre": "Juego 4 Tubos Triplex",
+    "imagen": "img/juego-4-tubos-triplex.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-4tubos-eko-amarillo",
+    "nombre": "Juego 4tubos Eko Amarillo",
+    "imagen": "img/juego-4tubos-eko-amarillo.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-4tubos-eko-rojo",
+    "nombre": "Juego 4tubos Eko Rojo",
+    "imagen": "img/juego-4tubos-eko-rojo.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-4tubos-estructura-especial",
+    "nombre": "Juego 4tubos Estructura Especial",
+    "imagen": "img/juego-4tubos-estructura-especial.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-4tubos-pink",
+    "nombre": "Juego 4tubos Pink",
+    "imagen": "img/juego-4tubos-pink.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-alteza-60x-cromado",
+    "nombre": "Juego Alteza 60x Cromado",
+    "imagen": "img/juego-alteza-60x-cromado.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-alteza-90x-cromado",
+    "nombre": "Juego Alteza 90x Cromado",
+    "imagen": "img/juego-alteza-90x-cromado.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-alto-ekon",
+    "nombre": "Juego Alto Ekon",
+    "imagen": "img/juego-alto-ekon.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-amber",
+    "nombre": "Juego Amber",
+    "imagen": "img/juego-amber.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-arrinonado-cr2-5",
+    "nombre": "Juego Arriñonado cr2.5",
+    "imagen": "img/juego-arrinonado-cr2-5.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sillas-1-sofa"
+    ]
+  },
+  {
+    "id": "juego-atlas-mesa-disco-cuadrada",
+    "nombre": "Juego Atlas Mesa Disco Cuadrada",
+    "imagen": "img/juego-atlas-mesa-disco-cuadrada.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-aura-dorado",
+    "nombre": "Juego Aura Dorado",
+    "imagen": "img/juego-aura-dorado.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-azabache",
+    "nombre": "Juego Azabache",
+    "imagen": "img/juego-azabache.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-berlin",
+    "nombre": "Juego Berlín",
+    "imagen": "img/juego-berlin.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-berlin-puff",
+    "nombre": "Juego Berlín Puff",
+    "imagen": "img/juego-berlin-puff.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-bistro-60x-cr-1-5",
+    "nombre": "Juego Bistro 60x CR 1.5",
+    "imagen": "img/juego-bistro-60x-cr-1-5.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-bistro-60x-en-acero",
+    "nombre": "Juego Bistro 60x en Acero",
+    "imagen": "img/juego-bistro-60x-en-acero.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-bistro-60x-pvc",
+    "nombre": "Juego Bistro 60x PVC",
+    "imagen": "img/juego-bistro-60x-pvc.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-bistro-mesa-90x60-acero",
+    "nombre": "Juego Bistro Mesa 90x60 Acero",
+    "imagen": "img/juego-bistro-mesa-90x60-acero.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-bistro-mesa-90x60-cr-1-5",
+    "nombre": "Juego Bistro Mesa 90x60 CR 1.5",
+    "imagen": "img/juego-bistro-mesa-90x60-cr-1-5.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-bistro-mesa-90x60pvc",
+    "nombre": "Juego Bistro Mesa 90x60pvc",
+    "imagen": "img/juego-bistro-mesa-90x60pvc.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-boston",
+    "nombre": "Juego Boston",
+    "imagen": "img/juego-boston.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sillas-1-sofa"
+    ]
+  },
+  {
+    "id": "juego-carbono-tablon-de-pino",
+    "nombre": "Juego Carbono Tablón de Pino",
+    "imagen": "img/juego-carbono-tablon-de-pino.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-centro-formica",
+    "nombre": "Juego Centro Formica",
+    "imagen": "img/juego-centro-formica.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con acero"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-cross-pino",
+    "nombre": "Juego Cross Pino",
+    "imagen": "img/juego-cross-pino.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-cubano",
+    "nombre": "Juego Cubano",
+    "imagen": "img/juego-cubano.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-cubetazo-en-acero",
+    "nombre": "Juego Cubetazo en Acero",
+    "imagen": "img/juego-cubetazo-en-acero.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con acero"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-dalmata",
+    "nombre": "Juego Dálmata",
+    "imagen": "img/juego-dalmata.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "otros"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-de-puff-40x",
+    "nombre": "Juego de Puff 40X",
+    "imagen": "img/juego-de-puff-40x.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "4-puff"
+    ]
+  },
+  {
+    "id": "juego-de-puff-acrilico",
+    "nombre": "Juego de Puff Acrílico",
+    "imagen": "img/juego-de-puff-acrilico.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "4-puff"
+    ]
+  },
+  {
+    "id": "juego-de-puff-ajedrez",
+    "nombre": "Juego de Puff Ajedrez",
+    "imagen": "img/juego-de-puff-ajedrez.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "4-puff"
+    ]
+  },
+  {
+    "id": "juego-dorado-60x60",
+    "nombre": "Juego Dorado 60x60",
+    "imagen": "img/juego-dorado-60x60.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-dorado-90x60",
+    "nombre": "Juego Dorado 90x60",
+    "imagen": "img/juego-dorado-90x60.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eclipese-eva-cb",
+    "nombre": "Juego Eclipese Eva CB",
+    "imagen": "img/juego-eclipese-eva-cb.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-elipse-coctelero",
+    "nombre": "Juego Elipse Coctelero",
+    "imagen": "img/juego-elipse-coctelero.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-emma",
+    "nombre": "Juego Emma",
+    "imagen": "img/juego-emma.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-en-pino-envejecido",
+    "nombre": "Juego en Pino Envejecido",
+    "imagen": "img/juego-en-pino-envejecido.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-escolar-trapezoide-junior",
+    "nombre": "Juego Escolar Trapezoide Junior",
+    "imagen": "img/juego-escolar-trapezoide-junior.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-especial-dalmata",
+    "nombre": "Juego Especial Dálmata",
+    "imagen": "img/juego-especial-dalmata.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "otros"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-especial-dorado",
+    "nombre": "Juego Especial Dorado",
+    "imagen": "img/juego-especial-dorado.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario con tapiz",
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-especial-sofi-pranna",
+    "nombre": "Juego Especial Sofi Pranna",
+    "imagen": "img/juego-especial-sofi-pranna.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-eva-60x-black",
+    "nombre": "Juego Eva 60x Black",
+    "imagen": "img/juego-eva-60x-black.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-90x",
+    "nombre": "Juego Eva 90x.",
+    "imagen": "img/juego-eva-90x.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-90x-cafe",
+    "nombre": "Juego Eva 90x Café",
+    "imagen": "img/juego-eva-90x-cafe.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-base-martinolis",
+    "nombre": "Juego Eva Base Martinolis",
+    "imagen": "img/juego-eva-base-martinolis.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-cb-60x60",
+    "nombre": "Juego Eva CB 60x60",
+    "imagen": "img/juego-eva-cb-60x60.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-con-brazos-mesa-90x60-acero",
+    "nombre": "Juego Eva con Brazos Mesa 90x60 Acero",
+    "imagen": "img/juego-eva-con-brazos-mesa-90x60-acero.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-con-brazos-mesa-90x60-borde-pvc",
+    "nombre": "Juego Eva con Brazos Mesa 90x60 Borde PVC",
+    "imagen": "img/juego-eva-con-brazos-mesa-90x60-borde-pvc.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-con-brazos-mesa-90x60-cr-1-5",
+    "nombre": "Juego Eva con Brazos Mesa 90x60 CR 1.5",
+    "imagen": "img/juego-eva-con-brazos-mesa-90x60-cr-1-5.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-con-brazos-mesa-90x60-cr-1-5-ii",
+    "nombre": "Juego Eva con Brazos Mesa 90x60 CR 1.5 II",
+    "imagen": "img/juego-eva-con-brazos-mesa-90x60-cr-1-5-ii.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-con-brazos-mesa-90x60-cr-2-5",
+    "nombre": "Juego Eva con Brazos Mesa 90x60 CR 2.5",
+    "imagen": "img/juego-eva-con-brazos-mesa-90x60-cr-2-5.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-con-brazos-mesa-cuadrada-acero",
+    "nombre": "Juego Eva con Brazos Mesa Cuadrada Acero",
+    "imagen": "img/juego-eva-con-brazos-mesa-cuadrada-acero.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-con-brazos-mesa-cuadrada-cr-1-5",
+    "nombre": "Juego Eva con Brazos Mesa Cuadrada CR 1.5",
+    "imagen": "img/juego-eva-con-brazos-mesa-cuadrada-cr-1-5.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-con-brazos-mesa-cuadrada-cr-1-5-ii",
+    "nombre": "Juego Eva con Brazos Mesa Cuadrada CR 1.5 II",
+    "imagen": "img/juego-eva-con-brazos-mesa-cuadrada-cr-1-5-ii.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-con-brazos-mesa-cuadrada-pvc",
+    "nombre": "Juego Eva con Brazos Mesa Cuadrada PVC",
+    "imagen": "img/juego-eva-con-brazos-mesa-cuadrada-pvc.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-con-brazos-mesa-redonda-acero",
+    "nombre": "Juego Eva con Brazos Mesa Redonda Acero",
+    "imagen": "img/juego-eva-con-brazos-mesa-redonda-acero.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-con-brazos-mesa-redonda-pvc",
+    "nombre": "Juego Eva con Brazos Mesa Redonda PVC",
+    "imagen": "img/juego-eva-con-brazos-mesa-redonda-pvc.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-con-brazos-mesa-redonda-triplex",
+    "nombre": "Juego Eva con Brazos Mesa Redonda Triplex",
+    "imagen": "img/juego-eva-con-brazos-mesa-redonda-triplex.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-con-brazos-plato-pintura-especial",
+    "nombre": "Juego Eva con Brazos Plato Pintura Especial",
+    "imagen": "img/juego-eva-con-brazos-plato-pintura-especial.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-sb-60cr-15-turqueza",
+    "nombre": "Juego Eva SB 60cr 15 Turquesa",
+    "imagen": "img/juego-eva-sb-60cr-15-turqueza.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-sb-90x-cr-1-5black",
+    "nombre": "Juego Eva SB 90x CR 1.5black",
+    "imagen": "img/juego-eva-sb-90x-cr-1-5black.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-eva-sb-90x6",
+    "nombre": "Juego Eva SB 90x6",
+    "imagen": "img/juego-eva-sb-90x6.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-frances",
+    "nombre": "Juego Francés",
+    "imagen": "img/juego-frances.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-giorgia-base-dado",
+    "nombre": "Juego Giorgia Base Dado",
+    "imagen": "img/juego-giorgia-base-dado.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-giorgia-de-60x60cm-cr-1-5",
+    "nombre": "Juego Giorgia de 60x60cm CR 1.5",
+    "imagen": "img/juego-giorgia-de-60x60cm-cr-1-5.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-giorgia-de-60x60cm-pvc",
+    "nombre": "Juego Giorgia de 60x60cm PVC",
+    "imagen": "img/juego-giorgia-de-60x60cm-pvc.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-giorgia-de-90x60-cr-1-5-contour",
+    "nombre": "Juego Giorgia de 90x60 CR 1.5 Contour",
+    "imagen": "img/juego-giorgia-de-90x60-cr-1-5-contour.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-giorgia-de-90x60-cr-1-5-light",
+    "nombre": "Juego Giorgia de 90x60 CR 1.5 Light",
+    "imagen": "img/juego-giorgia-de-90x60-cr-1-5-light.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-giorgia-diametro-60-cr-1-5",
+    "nombre": "Juego Giorgia Diámetro 60 CR 1.5",
+    "imagen": "img/juego-giorgia-diametro-60-cr-1-5.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-giorgia-diametro-60-formica-especial",
+    "nombre": "Juego Giorgia Diámetro 60 Formica Especial",
+    "imagen": "img/juego-giorgia-diametro-60-formica-especial.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-giorgia-diametro-60-pvc",
+    "nombre": "Juego Giorgia Diámetro 60 PVC",
+    "imagen": "img/juego-giorgia-diametro-60-pvc.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-golden",
+    "nombre": "Juego Golden",
+    "imagen": "img/juego-golden.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sillas-1-sofa"
+    ]
+  },
+  {
+    "id": "juego-helen-60x60cm-cr15",
+    "nombre": "Juego Helen 60x60cm cr15",
+    "imagen": "img/juego-helen-60x60cm-cr15.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-helen-60x60cm-cr25",
+    "nombre": "Juego Helen 60x60cm cr25",
+    "imagen": "img/juego-helen-60x60cm-cr25.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-helen-90x60cm-cr15",
+    "nombre": "Juego Helen 90x60cm cr15",
+    "imagen": "img/juego-helen-90x60cm-cr15.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-helen-cb-60x60-cr15",
+    "nombre": "Juego Helen CB 60x60 CR15",
+    "imagen": "img/juego-helen-cb-60x60-cr15.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-helen-cb-60x60-cr25",
+    "nombre": "Juego Helen CB 60x60 CR25",
+    "imagen": "img/juego-helen-cb-60x60-cr25.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-helen-cb-90x60-cr15",
+    "nombre": "Juego Helen CB 90x60 CR15",
+    "imagen": "img/juego-helen-cb-90x60-cr15.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-helen-cb-diametro-60cm-pvc",
+    "nombre": "Juego Helen CB Diámetro 60cm PVC",
+    "imagen": "img/juego-helen-cb-diametro-60cm-pvc.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-helen-diametro-60cm-pvc",
+    "nombre": "Juego Helen Diámetro 60cm PVC",
+    "imagen": "img/juego-helen-diametro-60cm-pvc.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-hexagonal",
+    "nombre": "Juego Hexagonal",
+    "imagen": "img/juego-hexagonal.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-hielera-tablon-de-pino",
+    "nombre": "Juego Hielera Tablón de Pino",
+    "imagen": "img/juego-hielera-tablon-de-pino.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-hielera-vip",
+    "nombre": "Juego Hielera Vip",
+    "imagen": "img/juego-hielera-vip.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sillas-1-sofa"
+    ]
+  },
+  {
+    "id": "juego-indigo",
+    "nombre": "Juego Índigo",
+    "imagen": "img/juego-indigo.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-italiano-chester",
+    "nombre": "Juego Italiano Chester",
+    "imagen": "img/juego-italiano-chester.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "otros"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-jasper",
+    "nombre": "Juego Jasper",
+    "imagen": "img/juego-jasper.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sillas-1-sofa"
+    ]
+  },
+  {
+    "id": "juego-karla-90x-pvc",
+    "nombre": "Juego Karla 90x PVC",
+    "imagen": "img/juego-karla-90x-pvc.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-karla-ekon",
+    "nombre": "Juego Karla Ekon",
+    "imagen": "img/juego-karla-ekon.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-karla-ekon-90x",
+    "nombre": "Juego Karla Ekon 90x",
+    "imagen": "img/juego-karla-ekon-90x.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-karla-pintura-blanca",
+    "nombre": "Juego Karla Pintura Blanca",
+    "imagen": "img/juego-karla-pintura-blanca.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-kennedy",
+    "nombre": "Juego Kennedy",
+    "imagen": "img/juego-kennedy.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-lecter",
+    "nombre": "Juego Lecter",
+    "imagen": "img/juego-lecter.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sillas-1-sofa"
+    ]
+  },
+  {
+    "id": "juego-lecter-cb-mesa-90xcr",
+    "nombre": "Juego Lecter CB Mesa 90xCR",
+    "imagen": "img/juego-lecter-cb-mesa-90xcr.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sillas-1-sofa"
+    ]
+  },
+  {
+    "id": "juego-lecter-cb-mesa-90xcr-ii",
+    "nombre": "Juego Lecter CB Mesa 90xCR II",
+    "imagen": "img/juego-lecter-cb-mesa-90xcr-ii.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sillas-1-sofa"
+    ]
+  },
+  {
+    "id": "juego-lecter-cr-1-5",
+    "nombre": "Juego Lecter CR 1.5",
+    "imagen": "img/juego-lecter-cr-1-5.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sillas-1-sofa"
+    ]
+  },
+  {
+    "id": "juego-lecter-cr-2-5",
+    "nombre": "Juego Lecter CR 2.5",
+    "imagen": "img/juego-lecter-cr-2-5.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sillas-1-sofa"
+    ]
+  },
+  {
+    "id": "juego-lecter-eva-con-brazos",
+    "nombre": "Juego Lecter Eva con Brazos",
+    "imagen": "img/juego-lecter-eva-con-brazos.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sillas-1-sofa"
+    ]
+  },
+  {
+    "id": "juego-lecter-r1",
+    "nombre": "Juego Lecter r1",
+    "imagen": "img/juego-lecter-r1.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sillas-1-sofa"
+    ]
+  },
+  {
+    "id": "juego-londres-0-1",
+    "nombre": "Juego Londres 0.1",
+    "imagen": "img/juego-londres-0-1.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-londres-0-2",
+    "nombre": "Juego Londres 0.2",
+    "imagen": "img/juego-londres-0-2.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-londres-0-3",
+    "nombre": "Juego Londres 0.3",
+    "imagen": "img/juego-londres-0-3.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-londres-1-verde",
+    "nombre": "Juego Londres 1 Verde",
+    "imagen": "img/juego-londres-1-verde.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-londres-karla-cromado",
+    "nombre": "Juego Londres Karla Cromado",
+    "imagen": "img/juego-londres-karla-cromado.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-lucia",
+    "nombre": "Juego Lucia",
+    "imagen": "img/juego-lucia.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-puff-1-sofa"
+    ]
+  },
+  {
+    "id": "juego-macarena",
+    "nombre": "Juego Macarena",
+    "imagen": "img/juego-macarena.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-magico-60x60-cr-1-5",
+    "nombre": "Juego Mágico 60x60 CR 1.5",
+    "imagen": "img/juego-magico-60x60-cr-1-5.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-magico-60x60-en-acero",
+    "nombre": "Juego Mágico 60x60 en Acero",
+    "imagen": "img/juego-magico-60x60-en-acero.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-magico-60x60-pvc",
+    "nombre": "Juego Mágico 60x60 PVC",
+    "imagen": "img/juego-magico-60x60-pvc.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-magico-90x60-cr-1-5",
+    "nombre": "Juego Mágico 90x60 CR 1.5",
+    "imagen": "img/juego-magico-90x60-cr-1-5.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-magico-90x60-cr-2-5",
+    "nombre": "Juego Mágico 90x60 CR 2.5",
+    "imagen": "img/juego-magico-90x60-cr-2-5.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-manhattan",
+    "nombre": "Juego Manhattan",
+    "imagen": "img/juego-manhattan.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-margarita",
+    "nombre": "Juego Margarita",
+    "imagen": "img/juego-margarita.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-melisa",
+    "nombre": "Juego Melisa",
+    "imagen": "img/juego-melisa.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-merlin",
+    "nombre": "Juego Merlin",
+    "imagen": "img/juego-merlin.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-milan",
+    "nombre": "Juego Milán",
+    "imagen": "img/juego-milan.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sillas-1-sofa"
+    ]
+  },
+  {
+    "id": "juego-milan-v2",
+    "nombre": "Juego Milán v2",
+    "imagen": "img/juego-milan-v2.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-moderno-alto",
+    "nombre": "Juego Moderno Alto",
+    "imagen": "img/juego-moderno-alto.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-moderno-diametro-triplex",
+    "nombre": "Juego Moderno Diámetro Triplex",
+    "imagen": "img/juego-moderno-diametro-triplex.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-monaco",
+    "nombre": "Juego Mónaco",
+    "imagen": "img/juego-monaco.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas",
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-napoli",
+    "nombre": "Juego Napoli",
+    "imagen": "img/juego-napoli.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-napoli-coctelero-mesa-borde-acero",
+    "nombre": "Juego Napoli Coctelero Mesa Borde Acero",
+    "imagen": "img/juego-napoli-coctelero-mesa-borde-acero.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-napoli-coctelero-mesa-en-acero",
+    "nombre": "Juego Napoli Coctelero Mesa en Acero",
+    "imagen": "img/juego-napoli-coctelero-mesa-en-acero.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-napoli-r2",
+    "nombre": "Juego Napoli R2",
+    "imagen": "img/juego-napoli-r2.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-normando",
+    "nombre": "Juego Normando",
+    "imagen": "img/juego-normando.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-olivo",
+    "nombre": "Juego Olivo",
+    "imagen": "img/juego-olivo.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-pardo-alto",
+    "nombre": "Juego Pardo Alto",
+    "imagen": "img/juego-pardo-alto.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-pekin",
+    "nombre": "Juego Pekín",
+    "imagen": "img/juego-pekin.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-pizzero-tela-especial",
+    "nombre": "Juego Pizzero Tela Especial",
+    "imagen": "img/juego-pizzero-tela-especial.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "4-puff"
+    ]
+  },
+  {
+    "id": "juego-polaco",
+    "nombre": "Juego Polaco",
+    "imagen": "img/juego-polaco.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-pranna-sofi",
+    "nombre": "Juego Pranna Sofi",
+    "imagen": "img/juego-pranna-sofi.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-prisma-mesa-disco",
+    "nombre": "Juego Prisma. Mesa Disco",
+    "imagen": "img/juego-prisma-mesa-disco.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario con madera",
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-rustico",
+    "nombre": "Juego Rústico",
+    "imagen": "img/juego-rustico.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-rustico-90x",
+    "nombre": "Juego Rústico 90x",
+    "imagen": "img/juego-rustico-90x.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-rustico-alto",
+    "nombre": "Juego Rústico Alto",
+    "imagen": "img/juego-rustico-alto.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-rustico-clasico-en-triplex",
+    "nombre": "Juego Rústico Clásico en Triplex",
+    "imagen": "img/juego-rustico-clasico-en-triplex.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-rustico-clasico-tablon-de-pino",
+    "nombre": "Juego Rústico Clásico Tablón de Pino",
+    "imagen": "img/juego-rustico-clasico-tablon-de-pino.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-rustico-madera-fogueada",
+    "nombre": "Juego Rústico Madera Fogueada",
+    "imagen": "img/juego-rustico-madera-fogueada.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-rustico-super-classic",
+    "nombre": "Juego Rústico Super Classic",
+    "imagen": "img/juego-rustico-super-classic.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-rustico-x-dorado",
+    "nombre": "Juego Rústico x Dorado",
+    "imagen": "img/juego-rustico-x-dorado.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-rustico-z-con-mesa-x",
+    "nombre": "Juego Rústico Z con Mesa x",
+    "imagen": "img/juego-rustico-z-con-mesa-x.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-samario",
+    "nombre": "Juego Samario",
+    "imagen": "img/juego-samario.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con acero"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-san-diego-cr2-5",
+    "nombre": "Juego San Diego CR2.5",
+    "imagen": "img/juego-san-diego-cr2-5.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-semi-rustico-alto",
+    "nombre": "Juego Semi Rústico Alto",
+    "imagen": "img/juego-semi-rustico-alto.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-sicilia",
+    "nombre": "Juego Sicilia",
+    "imagen": "img/juego-sicilia.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sillas-1-sofa"
+    ]
+  },
+  {
+    "id": "juego-sicilia-v2",
+    "nombre": "Juego Sicilia v2",
+    "imagen": "img/juego-sicilia-v2.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sillas-1-sofa"
+    ]
+  },
+  {
+    "id": "juego-sofi",
+    "nombre": "Juego Sofi",
+    "imagen": "img/juego-sofi.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-sofi-2-0-mesa-90x-cr",
+    "nombre": "Juego Sofi 2.0 Mesa 90x CR",
+    "imagen": "img/juego-sofi-2-0-mesa-90x-cr.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-sofi-chester",
+    "nombre": "Juego Sofi Chester",
+    "imagen": "img/juego-sofi-chester.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-sofi-r1",
+    "nombre": "Juego Sofi R1",
+    "imagen": "img/juego-sofi-r1.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-sofia",
+    "nombre": "Juego Sofia",
+    "imagen": "img/juego-sofia.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-sofia-liso",
+    "nombre": "Juego Sofia Liso",
+    "imagen": "img/juego-sofia-liso.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-sofia-mesa-cuadrada",
+    "nombre": "Juego Sofia. Mesa Cuadrada",
+    "imagen": "img/juego-sofia-mesa-cuadrada.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-solea-mesa-x",
+    "nombre": "Juego Solea Mesa x",
+    "imagen": "img/juego-solea-mesa-x.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-solna-acero-90x",
+    "nombre": "Juego Solna Acero 90x",
+    "imagen": "img/juego-solna-acero-90x.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-solna-acero-diametro-60",
+    "nombre": "Juego Solna Acero Diámetro 60",
+    "imagen": "img/juego-solna-acero-diametro-60.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-solna-cr-60x60",
+    "nombre": "Juego Solna CR 60x60",
+    "imagen": "img/juego-solna-cr-60x60.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-solna-cr-90x60",
+    "nombre": "Juego Solna CR 90x60",
+    "imagen": "img/juego-solna-cr-90x60.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-solna-pvc-90x60",
+    "nombre": "Juego Solna PVC 90x60",
+    "imagen": "img/juego-solna-pvc-90x60.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-solna-pvc-redonda",
+    "nombre": "Juego Solna PVC Redonda",
+    "imagen": "img/juego-solna-pvc-redonda.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-table-mac",
+    "nombre": "Juego Table Mac",
+    "imagen": "img/juego-table-mac.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-tabogo-base-plato",
+    "nombre": "Juego Tabogo Base Plato",
+    "imagen": "img/juego-tabogo-base-plato.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-texas-black-mesa-90x60-cr25",
+    "nombre": "Juego Texas Black Mesa 90x60 cr25",
+    "imagen": "img/juego-texas-black-mesa-90x60-cr25.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-texas-mesa-lamina",
+    "nombre": "Juego Texas Mesa Lámina",
+    "imagen": "img/juego-texas-mesa-lamina.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-texas-mesa-triplex-60x60",
+    "nombre": "Juego Texas Mesa Triplex 60x60",
+    "imagen": "img/juego-texas-mesa-triplex-60x60.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-texas-mesa-triplex-redonda",
+    "nombre": "Juego Texas Mesa Triplex Redonda",
+    "imagen": "img/juego-texas-mesa-triplex-redonda.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-texas-mixto-mesa-90x60-acero",
+    "nombre": "Juego Texas Mixto Mesa 90x60 Acero",
+    "imagen": "img/juego-texas-mixto-mesa-90x60-acero.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-texas-red-mesa-90x60-cr25",
+    "nombre": "Juego Texas Red Mesa 90x60 cr25",
+    "imagen": "img/juego-texas-red-mesa-90x60-cr25.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-texas-yellow-mesa-90x60-cr25",
+    "nombre": "Juego Texas Yellow Mesa 90x60 cr25",
+    "imagen": "img/juego-texas-yellow-mesa-90x60-cr25.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-texas-yellow-mesa-acero",
+    "nombre": "Juego Texas Yellow Mesa Acero",
+    "imagen": "img/juego-texas-yellow-mesa-acero.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-tokio",
+    "nombre": "Juego Tokio",
+    "imagen": "img/juego-tokio.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-tolix-con-dado-para-2",
+    "nombre": "Juego Tolix con Dado para 2",
+    "imagen": "img/juego-tolix-con-dado-para-2.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-tolix-con-dado-para-4",
+    "nombre": "Juego Tolix con Dado para 4",
+    "imagen": "img/juego-tolix-con-dado-para-4.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-triplex-pintura-negra",
+    "nombre": "Juego Triplex Pintura Negra",
+    "imagen": "img/juego-triplex-pintura-negra.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-urban-2-sofas-endidos",
+    "nombre": "Juego Urban 2 Sofás Hendidos",
+    "imagen": "img/juego-urban-2-sofas-endidos.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-valdez",
+    "nombre": "Juego Valdez",
+    "imagen": "img/juego-valdez.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-verona",
+    "nombre": "Juego Verona",
+    "imagen": "img/juego-verona.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sillas-1-sofa"
+    ]
+  },
+  {
+    "id": "juego-verona-pata-madera",
+    "nombre": "Juego Verona Pata Madera",
+    "imagen": "img/juego-verona-pata-madera.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "juego-versa-60x-cr-1-5",
+    "nombre": "Juego Versa 60x CR 1.5",
+    "imagen": "img/juego-versa-60x-cr-1-5.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-versa-60x-pvc",
+    "nombre": "Juego Versa 60x PVC",
+    "imagen": "img/juego-versa-60x-pvc.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-versa-90x-acero",
+    "nombre": "Juego Versa 90x Acero",
+    "imagen": "img/juego-versa-90x-acero.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-versa-90x-cr-1-5",
+    "nombre": "Juego Versa 90x CR 1.5",
+    "imagen": "img/juego-versa-90x-cr-1-5.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-versa-90x-cr-2-5",
+    "nombre": "Juego Versa 90x CR 2.5",
+    "imagen": "img/juego-versa-90x-cr-2-5.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-versa-90x-pvc",
+    "nombre": "Juego Versa 90x PVC",
+    "imagen": "img/juego-versa-90x-pvc.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-versa-diametro-60-triplex",
+    "nombre": "Juego Versa Diámetro 60 Triplex",
+    "imagen": "img/juego-versa-diametro-60-triplex.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [
+      "especial"
+    ],
+    "carpetas_origen": [
+      "Mobiliario especial"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-victoria",
+    "nombre": "Juego Victoria",
+    "imagen": "img/juego-victoria.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-vip",
+    "nombre": "Juego Vip",
+    "imagen": "img/juego-vip.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "4-puff"
+    ]
+  },
+  {
+    "id": "juego-watson",
+    "nombre": "Juego Watson",
+    "imagen": "img/juego-watson.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con acero"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-watson-0-2",
+    "nombre": "Juego Watson 0.2",
+    "imagen": "img/juego-watson-0-2.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con acero"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-watson-cromado",
+    "nombre": "Juego Watson Cromado",
+    "imagen": "img/juego-watson-cromado.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con acero"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-watson-cromado-60x",
+    "nombre": "Juego Watson Cromado 60x",
+    "imagen": "img/juego-watson-cromado-60x.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con acero"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-watson-karla-cromado",
+    "nombre": "Juego Watson Karla Cromado",
+    "imagen": "img/juego-watson-karla-cromado.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con acero"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-watson-pintura-60x",
+    "nombre": "Juego Watson Pintura 60x",
+    "imagen": "img/juego-watson-pintura-60x.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con acero"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "juego-zafiro",
+    "nombre": "Juego Zafiro",
+    "imagen": "img/juego-zafiro.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sillas-1-sofa"
+    ]
+  },
+  {
+    "id": "linea-escolar-mesa-modular",
+    "nombre": "Línea Escolar, Mesa Modular",
+    "imagen": "img/linea-escolar-mesa-modular.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-100x50-pino-solido",
+    "nombre": "Mesa 100x50 Pino Sólido",
+    "imagen": "img/mesa-100x50-pino-solido.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-4-patas",
+    "nombre": "Mesa 4 Patas",
+    "imagen": "img/mesa-4-patas.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-60x-1-5-pvc",
+    "nombre": "Mesa 60x 1.5 PVC",
+    "imagen": "img/mesa-60x-1-5-pvc.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-60x-pvc-base-cohete",
+    "nombre": "Mesa 60x PVC Base Cohete",
+    "imagen": "img/mesa-60x-pvc-base-cohete.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-60x-triplex-4-patas",
+    "nombre": "Mesa 60x Triplex 4 Patas",
+    "imagen": "img/mesa-60x-triplex-4-patas.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-60x60cm-base-cruceta",
+    "nombre": "Mesa 60x60cm Base Cruceta",
+    "imagen": "img/mesa-60x60cm-base-cruceta.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-60x60cm-base-fina",
+    "nombre": "Mesa 60x60cm Base Fina",
+    "imagen": "img/mesa-60x60cm-base-fina.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-90x-1-5-pvc",
+    "nombre": "Mesa 90x 1.5 PVC",
+    "imagen": "img/mesa-90x-1-5-pvc.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-90x-cr-15",
+    "nombre": "Mesa 90x CR 15",
+    "imagen": "img/mesa-90x-cr-15.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-90x-cr-base-h-cuadrada",
+    "nombre": "Mesa 90x CR Base H Cuadrada",
+    "imagen": "img/mesa-90x-cr-base-h-cuadrada.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-90x60-tablon-de-pino",
+    "nombre": "Mesa 90x60 Tablón de Pino",
+    "imagen": "img/mesa-90x60-tablon-de-pino.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-90x60cm-canto-rigido-2-5",
+    "nombre": "Mesa 90x60cm Canto Rígido 2,5",
+    "imagen": "img/mesa-90x60cm-canto-rigido-2-5.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-acero-90x60cm",
+    "nombre": "Mesa Acero 90x60cm",
+    "imagen": "img/mesa-acero-90x60cm.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-acero-90x60cm-cromada",
+    "nombre": "Mesa Acero 90x60cm Cromada",
+    "imagen": "img/mesa-acero-90x60cm-cromada.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-acero-con-parasol",
+    "nombre": "Mesa Acero con Parasol",
+    "imagen": "img/mesa-acero-con-parasol.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-acero-diametro-60cm",
+    "nombre": "Mesa Acero Diámetro 60cm",
+    "imagen": "img/mesa-acero-diametro-60cm.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-acero-diametro-60cm-cromada",
+    "nombre": "Mesa Acero Diámetro 60cm Cromada",
+    "imagen": "img/mesa-acero-diametro-60cm-cromada.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-alta-borde-metal-dado",
+    "nombre": "Mesa Alta Borde Metal Dado",
+    "imagen": "img/mesa-alta-borde-metal-dado.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-base-disco-cr-4-5",
+    "nombre": "Mesa Base Disco CR 4.5",
+    "imagen": "img/mesa-base-disco-cr-4-5.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-base-plato-tapa-acero",
+    "nombre": "Mesa Base Plato Tapa Acero",
+    "imagen": "img/mesa-base-plato-tapa-acero.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-base-x-de-90x60",
+    "nombre": "Mesa Base x de 90x60",
+    "imagen": "img/mesa-base-x-de-90x60.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-base-x-tapa-cr",
+    "nombre": "Mesa Base x Tapa CR",
+    "imagen": "img/mesa-base-x-tapa-cr.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-coctelera-bode-metal",
+    "nombre": "Mesa Coctelera Bode Metal",
+    "imagen": "img/mesa-coctelera-bode-metal.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-coctelera-dorada",
+    "nombre": "Mesa Coctelera Dorada",
+    "imagen": "img/mesa-coctelera-dorada.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-cubana",
+    "nombre": "Mesa Cubana",
+    "imagen": "img/mesa-cubana.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-dado-60x60-cr-1-5",
+    "nombre": "Mesa Dado 60x60 CR 1.5",
+    "imagen": "img/mesa-dado-60x60-cr-1-5.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-de-dibujo",
+    "nombre": "Mesa de Dibujo",
+    "imagen": "img/mesa-de-dibujo.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-diametro-60cm-c-r-15-con-base-disco",
+    "nombre": "Mesa Diámetro 60cm C.r 15 con Base Disco",
+    "imagen": "img/mesa-diametro-60cm-c-r-15-con-base-disco.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-diametro-60cm-c-r-25-con-base-disco",
+    "nombre": "Mesa Diámetro 60cm C.r 25 con Base Disco",
+    "imagen": "img/mesa-diametro-60cm-c-r-25-con-base-disco.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-disco-70x70-cr-15",
+    "nombre": "Mesa Disco 70x70 CR 15",
+    "imagen": "img/mesa-disco-70x70-cr-15.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-doble-a",
+    "nombre": "Mesa Doble a",
+    "imagen": "img/mesa-doble-a.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-dodo-en-triplex",
+    "nombre": "Mesa Dodo en Triplex",
+    "imagen": "img/mesa-dodo-en-triplex.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-en-acero-60x60cm-cromada",
+    "nombre": "Mesa en Acero 60x60cm Cromada",
+    "imagen": "img/mesa-en-acero-60x60cm-cromada.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-especial-metallica",
+    "nombre": "Mesa Especial Metallica",
+    "imagen": "img/mesa-especial-metallica.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-hielera",
+    "nombre": "Mesa Hielera",
+    "imagen": "img/mesa-hielera.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-hielera-coctelera-tapa-acero",
+    "nombre": "Mesa Hielera Coctelera Tapa Acero",
+    "imagen": "img/mesa-hielera-coctelera-tapa-acero.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-hielera-v2",
+    "nombre": "Mesa Hielera v2",
+    "imagen": "img/mesa-hielera-v2.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-indigo",
+    "nombre": "Mesa Índigo",
+    "imagen": "img/mesa-indigo.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-infantil-con-curvas",
+    "nombre": "Mesa Infantil con Curvas",
+    "imagen": "img/mesa-infantil-con-curvas.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-manhattan",
+    "nombre": "Mesa Manhattan",
+    "imagen": "img/mesa-manhattan.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-orion",
+    "nombre": "Mesa Orion",
+    "imagen": "img/mesa-orion.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-plegable-120x60",
+    "nombre": "Mesa Plegable 120x60",
+    "imagen": "img/mesa-plegable-120x60.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-praga-tablon-de-pino",
+    "nombre": "Mesa Praga Tablón de Pino",
+    "imagen": "img/mesa-praga-tablon-de-pino.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-redonda-infantil",
+    "nombre": "Mesa Redonda Infantil",
+    "imagen": "img/mesa-redonda-infantil.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-redonda-pvc",
+    "nombre": "Mesa Redonda PVC",
+    "imagen": "img/mesa-redonda-pvc.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-x-90-triplex",
+    "nombre": "Mesa x 90 Triplex",
+    "imagen": "img/mesa-x-90-triplex.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mesa-zigzag",
+    "nombre": "Mesa Zigzag",
+    "imagen": "img/mesa-zigzag.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mostrador-rustico-0-1",
+    "nombre": "Mostrador Rústico 0.1",
+    "imagen": "img/mostrador-rustico-0-1.webp",
+    "tipo": [
+      "barras-recepciones"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Barras y recepciones"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "mostrador-rustico-0-2",
+    "nombre": "Mostrador Rústico 0.2",
+    "imagen": "img/mostrador-rustico-0-2.webp",
+    "tipo": [
+      "barras-recepciones"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Barras y recepciones"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "muestra-de-sofas-de-1-m",
+    "nombre": "Muestra de Sofás de 1 M",
+    "imagen": "img/muestra-de-sofas-de-1-m.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "nuestras-bases-de-mesas",
+    "nombre": "Nuestras Bases de Mesas",
+    "imagen": "img/nuestras-bases-de-mesas.webp",
+    "tipo": [
+      "mesas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Mesas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "pack-sofi-compartido",
+    "nombre": "Pack Sofi Compartido",
+    "imagen": "img/pack-sofi-compartido.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-sofas"
+    ]
+  },
+  {
+    "id": "puff-chester-con-baul",
+    "nombre": "Puff Chester con Baúl",
+    "imagen": "img/puff-chester-con-baul.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "puff-liso-1-metro",
+    "nombre": "Puff Liso 1 Metro",
+    "imagen": "img/puff-liso-1-metro.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "pupite-interlocutor-b-escualizable",
+    "nombre": "Pupite Interlocutor B Escualizable",
+    "imagen": "img/pupite-interlocutor-b-escualizable.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "pupitre-campus-con-bandeja",
+    "nombre": "Pupitre Campus con Bandeja",
+    "imagen": "img/pupitre-campus-con-bandeja.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "pupitre-campus-con-bandeja-copy",
+    "nombre": "Pupitre Campus con Bandeja",
+    "imagen": "img/pupitre-campus-con-bandeja-copy.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "pupitre-campus-plastico",
+    "nombre": "Pupitre Campus Plástico",
+    "imagen": "img/pupitre-campus-plastico.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "pupitre-campus-v",
+    "nombre": "Pupitre Campus V",
+    "imagen": "img/pupitre-campus-v.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "pupitre-doble",
+    "nombre": "Pupitre Doble",
+    "imagen": "img/pupitre-doble.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "pupitre-en-triplex",
+    "nombre": "Pupitre en Triplex",
+    "imagen": "img/pupitre-en-triplex.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "pupitre-escolar-prisma",
+    "nombre": "Pupitre Escolar Prisma",
+    "imagen": "img/pupitre-escolar-prisma.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "pupitre-herradura",
+    "nombre": "Pupitre Herradura",
+    "imagen": "img/pupitre-herradura.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "pupitre-herradura-r2",
+    "nombre": "Pupitre Herradura r2",
+    "imagen": "img/pupitre-herradura-r2.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "pupitre-unipersonal-con-bandeja",
+    "nombre": "Pupitre Unipersonal con Bandeja",
+    "imagen": "img/pupitre-unipersonal-con-bandeja.webp",
+    "tipo": [
+      "escolar"
+    ],
+    "material": [],
+    "negocio": [
+      "colegio"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Escolar"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "recepcion-poved",
+    "nombre": "Recepción Poved",
+    "imagen": "img/recepcion-poved.webp",
+    "tipo": [
+      "barras-recepciones"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Barras y recepciones"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "rustico-moderno",
+    "nombre": "Rústico Moderno",
+    "imagen": "img/rustico-moderno.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con tapiz"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "set-4-tubos-ekon",
+    "nombre": "Set 4 Tubos Ekon",
+    "imagen": "img/set-4-tubos-ekon.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "set-berlin",
+    "nombre": "Set Berlín",
+    "imagen": "img/set-berlin.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-puff-1-sofa"
+    ]
+  },
+  {
+    "id": "set-berlin-0-2",
+    "nombre": "Set Berlín 0.2",
+    "imagen": "img/set-berlin-0-2.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-puff-1-sofa"
+    ]
+  },
+  {
+    "id": "set-chaplin",
+    "nombre": "Set Chaplin",
+    "imagen": "img/set-chaplin.webp",
+    "tipo": [
+      "juegos-sofas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con puff y sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": [
+      "2-puff-1-sofa"
+    ]
+  },
+  {
+    "id": "set-eva-2",
+    "nombre": "Set Eva 2",
+    "imagen": "img/set-eva-2.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "set-eva-60x",
+    "nombre": "Set Eva 60X",
+    "imagen": "img/set-eva-60x.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "set-eva-90x",
+    "nombre": "Set Eva 90X",
+    "imagen": "img/set-eva-90x.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "set-eva-cb-060",
+    "nombre": "Set Eva CB 060",
+    "imagen": "img/set-eva-cb-060.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "set-karla",
+    "nombre": "Set Karla",
+    "imagen": "img/set-karla.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "set-karla-90x",
+    "nombre": "Set Karla 90X",
+    "imagen": "img/set-karla-90x.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "set-karla-ekon-blue",
+    "nombre": "Set Karla Ekon Blue",
+    "imagen": "img/set-karla-ekon-blue.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "set-londres-0-4",
+    "nombre": "Set Londres 0.4",
+    "imagen": "img/set-londres-0-4.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "plastico"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con plastico"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "set-pino",
+    "nombre": "Set Pino",
+    "imagen": "img/set-pino.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "madera"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con madera"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "set-super-acero",
+    "nombre": "Set Super Acero",
+    "imagen": "img/set-super-acero.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "acero"
+    ],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Mobiliario con acero"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-4t-plastico-y-pintura",
+    "nombre": "Silla 4t Plástico y Pintura",
+    "imagen": "img/silla-4t-plastico-y-pintura.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-4t-ponque-y-pintura",
+    "nombre": "Silla 4t Ponque y Pintura",
+    "imagen": "img/silla-4t-ponque-y-pintura.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-4t-ponque-y-pintura-blanca",
+    "nombre": "Silla 4t Ponque y Pintura Blanca",
+    "imagen": "img/silla-4t-ponque-y-pintura-blanca.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-acero-4-tubos",
+    "nombre": "Silla Acero 4 Tubos",
+    "imagen": "img/silla-acero-4-tubos.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-acero-4-tubos-cromada",
+    "nombre": "Silla Acero 4 Tubos Cromada",
+    "imagen": "img/silla-acero-4-tubos-cromada.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-anos-50s",
+    "nombre": "Silla Años 50s",
+    "imagen": "img/silla-anos-50s.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-atlas",
+    "nombre": "Silla Atlas",
+    "imagen": "img/silla-atlas.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-bistro",
+    "nombre": "Silla Bistro",
+    "imagen": "img/silla-bistro.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-clasica",
+    "nombre": "Silla Clásica",
+    "imagen": "img/silla-clasica.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-cross-tablon-de-pino",
+    "nombre": "Silla Cross Tablón de Pino",
+    "imagen": "img/silla-cross-tablon-de-pino.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-darli",
+    "nombre": "Silla Darli",
+    "imagen": "img/silla-darli.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-en-pino-envejecido",
+    "nombre": "Silla en Pino Envejecido",
+    "imagen": "img/silla-en-pino-envejecido.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-eva-con-brazos",
+    "nombre": "Silla Eva con Brazos",
+    "imagen": "img/silla-eva-con-brazos.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-eva-sin-brazos",
+    "nombre": "Silla Eva sin Brazos",
+    "imagen": "img/silla-eva-sin-brazos.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-giorgia",
+    "nombre": "Silla Giorgia",
+    "imagen": "img/silla-giorgia.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-giorgia-v2",
+    "nombre": "Silla Giorgia (versión 2)",
+    "imagen": "img/silla-giorgia-v2.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-helen",
+    "nombre": "Silla Helen",
+    "imagen": "img/silla-helen.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-helen-con-brazos",
+    "nombre": "Silla Helen con Brazos",
+    "imagen": "img/silla-helen-con-brazos.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-inglesa-tapizada",
+    "nombre": "Silla Inglesa Tapizada",
+    "imagen": "img/silla-inglesa-tapizada.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-interlocutora-con-pano",
+    "nombre": "Silla Interlocutora con Paño",
+    "imagen": "img/silla-interlocutora-con-pano.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-karla-plastico-y-pintura",
+    "nombre": "Silla Karla Plástico y Pintura",
+    "imagen": "img/silla-karla-plastico-y-pintura.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-manhatan-pintura-dorada",
+    "nombre": "Silla Manhatan Pintura Dorada",
+    "imagen": "img/silla-manhatan-pintura-dorada.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-manhattan",
+    "nombre": "Silla Manhattan",
+    "imagen": "img/silla-manhattan.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-melisa",
+    "nombre": "Silla Melisa",
+    "imagen": "img/silla-melisa.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-moderna-tapiz-tela",
+    "nombre": "Silla Moderna Tapiz Tela",
+    "imagen": "img/silla-moderna-tapiz-tela.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-napoli",
+    "nombre": "Silla Napoli",
+    "imagen": "img/silla-napoli.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-napoli-v2",
+    "nombre": "Silla Napoli (versión 2)",
+    "imagen": "img/silla-napoli-v2.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-oliva",
+    "nombre": "Silla Oliva",
+    "imagen": "img/silla-oliva.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-pekin",
+    "nombre": "Silla Pekín",
+    "imagen": "img/silla-pekin.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-rustica-moderna",
+    "nombre": "Silla Rústica Moderna",
+    "imagen": "img/silla-rustica-moderna.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-rustica-pintura-roja",
+    "nombre": "Silla Rústica Pintura Roja",
+    "imagen": "img/silla-rustica-pintura-roja.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-rustica-super-clasica",
+    "nombre": "Silla Rústica Super Clásica",
+    "imagen": "img/silla-rustica-super-clasica.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-rustica-tapizada",
+    "nombre": "Silla Rústica Tapizada",
+    "imagen": "img/silla-rustica-tapizada.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-rustica-z",
+    "nombre": "Silla Rústica Z",
+    "imagen": "img/silla-rustica-z.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-solea",
+    "nombre": "Silla Solea",
+    "imagen": "img/silla-solea.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-tabogo",
+    "nombre": "Silla Tabogo",
+    "imagen": "img/silla-tabogo.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-tolix-cromada",
+    "nombre": "Silla Tolix Cromada",
+    "imagen": "img/silla-tolix-cromada.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-versa",
+    "nombre": "Silla Versa",
+    "imagen": "img/silla-versa.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "silla-y-butaco-texas",
+    "nombre": "Silla y Butaco Texas",
+    "imagen": "img/silla-y-butaco-texas.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sillas-alteza",
+    "nombre": "Sillas Alteza",
+    "imagen": "img/sillas-alteza.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sillas-texas",
+    "nombre": "Sillas Texas",
+    "imagen": "img/sillas-texas.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-abullonado-de-1-4",
+    "nombre": "Sofá Abullonado de 1.4",
+    "imagen": "img/sofa-abullonado-de-1-4.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-arrinonado-con-base-metalica",
+    "nombre": "Sofá Arriñonado con Base Metálica",
+    "imagen": "img/sofa-arrinonado-con-base-metalica.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-arrinonado-con-chaperas-en-madera",
+    "nombre": "Sofá Arriñonado con Chaperas en Madera",
+    "imagen": "img/sofa-arrinonado-con-chaperas-en-madera.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-arrinonado-con-safra",
+    "nombre": "Sofá Arriñonado con Safra",
+    "imagen": "img/sofa-arrinonado-con-safra.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-arrinonado-en-pranna",
+    "nombre": "Sofá Arriñonado en Pranna",
+    "imagen": "img/sofa-arrinonado-en-pranna.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-california",
+    "nombre": "Sofá California",
+    "imagen": "img/sofa-california.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-california-pranna",
+    "nombre": "Sofá California Pranna",
+    "imagen": "img/sofa-california-pranna.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-california-sencillo",
+    "nombre": "Sofá California Sencillo",
+    "imagen": "img/sofa-california-sencillo.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-california-v3-arrinonado",
+    "nombre": "Sofá California v3 Arriñonado",
+    "imagen": "img/sofa-california-v3-arrinonado.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-chester",
+    "nombre": "Sofá Chester",
+    "imagen": "img/sofa-chester.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-chester-1-5m",
+    "nombre": "Sofá Chester 1.5m",
+    "imagen": "img/sofa-chester-1-5m.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-chester-1m-pranna",
+    "nombre": "Sofá Chester 1m Pranna",
+    "imagen": "img/sofa-chester-1m-pranna.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-chester-2-m",
+    "nombre": "Sofá Chester 2 M",
+    "imagen": "img/sofa-chester-2-m.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-chester-base-dado",
+    "nombre": "Sofá Chester Base Dado",
+    "imagen": "img/sofa-chester-base-dado.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-chester-base-metalica",
+    "nombre": "Sofá Chester Base Metálica",
+    "imagen": "img/sofa-chester-base-metalica.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-chester-base-metalica-dado",
+    "nombre": "Sofá Chester - Base Metálica Dado",
+    "imagen": "img/sofa-chester-base-metalica-dado.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-chester-chaperas-en-madera",
+    "nombre": "Sofá Chester - Chaperas en Madera",
+    "imagen": "img/sofa-chester-chaperas-en-madera.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-chester-con-asiento-extenso",
+    "nombre": "Sofá Chester con Asiento Extenso",
+    "imagen": "img/sofa-chester-con-asiento-extenso.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-chester-con-baul",
+    "nombre": "Sofá Chester con Baúl",
+    "imagen": "img/sofa-chester-con-baul.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-chester-con-boton",
+    "nombre": "Sofá Chester con Botón",
+    "imagen": "img/sofa-chester-con-boton.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-chester-con-madera",
+    "nombre": "Sofá Chester con Madera",
+    "imagen": "img/sofa-chester-con-madera.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-chester-crema-bicolor",
+    "nombre": "Sofá Chester Crema Bicolor",
+    "imagen": "img/sofa-chester-crema-bicolor.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-chester-v3-asiento-extendido",
+    "nombre": "Sofá Chester v3 Asiento Extendido",
+    "imagen": "img/sofa-chester-v3-asiento-extendido.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-compartido",
+    "nombre": "Sofá Compartido",
+    "imagen": "img/sofa-compartido.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-coqueto",
+    "nombre": "Sofá Coqueto",
+    "imagen": "img/sofa-coqueto.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-coqueto-liso",
+    "nombre": "Sofá Coqueto Liso",
+    "imagen": "img/sofa-coqueto-liso.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-dalma-2m-amarillo",
+    "nombre": "Sofá Dalma 2m Amarillo",
+    "imagen": "img/sofa-dalma-2m-amarillo.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-dalma-v2",
+    "nombre": "Sofá Dalma (versión 2)",
+    "imagen": "img/sofa-dalma-v2.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-dalmata",
+    "nombre": "Sofá Dálmata",
+    "imagen": "img/sofa-dalmata.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-deluxe",
+    "nombre": "Sofá Deluxe",
+    "imagen": "img/sofa-deluxe.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-especial-arrinonado",
+    "nombre": "Sofá Especial Arriñonado",
+    "imagen": "img/sofa-especial-arrinonado.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-imperial-pranna",
+    "nombre": "Sofá Imperial Pranna",
+    "imagen": "img/sofa-imperial-pranna.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-isabelino",
+    "nombre": "Sofá Isabelino",
+    "imagen": "img/sofa-isabelino.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-liso-1m",
+    "nombre": "Sofá Liso 1m",
+    "imagen": "img/sofa-liso-1m.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-liso-con-franja",
+    "nombre": "Sofá Liso con Franja",
+    "imagen": "img/sofa-liso-con-franja.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-liso-total-con-franjas-verticales",
+    "nombre": "Sofá Liso Total con Franjas Verticales",
+    "imagen": "img/sofa-liso-total-con-franjas-verticales.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-magnus-cafe",
+    "nombre": "Sofá Magnus Café",
+    "imagen": "img/sofa-magnus-cafe.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-magnus-rosa",
+    "nombre": "Sofá Magnus Rosa",
+    "imagen": "img/sofa-magnus-rosa.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-merlin",
+    "nombre": "Sofá Merlin",
+    "imagen": "img/sofa-merlin.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-monaco",
+    "nombre": "Sofá Mónaco",
+    "imagen": "img/sofa-monaco.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-nordico",
+    "nombre": "Sofá Nórdico",
+    "imagen": "img/sofa-nordico.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-pranna-liso",
+    "nombre": "Sofá Pranna Liso",
+    "imagen": "img/sofa-pranna-liso.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-topacio-imitacion-baul",
+    "nombre": "Sofá Topacio Imitación Baúl",
+    "imagen": "img/sofa-topacio-imitacion-baul.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-urban",
+    "nombre": "Sofá Urban",
+    "imagen": "img/sofa-urban.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-verona-pata-en-madera",
+    "nombre": "Sofá Verona Pata en Madera",
+    "imagen": "img/sofa-verona-pata-en-madera.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-verona-pata-plastico-vino",
+    "nombre": "Sofá Verona Pata Plástico Vino",
+    "imagen": "img/sofa-verona-pata-plastico-vino.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "sofa-verona-tela-especial",
+    "nombre": "Sofá Verona Tela Especial",
+    "imagen": "img/sofa-verona-tela-especial.webp",
+    "tipo": [
+      "sofas-puff"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sofas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "solna-agua-marina",
+    "nombre": "Solna Agua Marina",
+    "imagen": "img/solna-agua-marina.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "solna-amarilla",
+    "nombre": "Solna Amarilla",
+    "imagen": "img/solna-amarilla.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "tandem-4-puestos",
+    "nombre": "Tandem 4 Puestos",
+    "imagen": "img/tandem-4-puestos.webp",
+    "tipo": [
+      "sillas"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Catalogo Sillas"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "untitled-1",
+    "nombre": "Sin nombre 1",
+    "imagen": "img/untitled-1.webp",
+    "tipo": [
+      "butacos"
+    ],
+    "material": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [
+      "Butacos"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "wimpy-acero-4-tubos",
+    "nombre": "Wimpy Acero 4 Tubos",
+    "imagen": "img/wimpy-acero-4-tubos.webp",
+    "tipo": [
+      "wimpy"
+    ],
+    "material": [],
+    "negocio": [
+      "cafeteria",
+      "fruteria",
+      "panaderia"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Wimpys"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "wimpy-alkatraz",
+    "nombre": "Wimpy Alkatraz",
+    "imagen": "img/wimpy-alkatraz.webp",
+    "tipo": [
+      "wimpy"
+    ],
+    "material": [],
+    "negocio": [
+      "cafeteria",
+      "fruteria",
+      "panaderia"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Wimpys"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "wimpy-eva",
+    "nombre": "Wimpy Eva",
+    "imagen": "img/wimpy-eva.webp",
+    "tipo": [
+      "wimpy"
+    ],
+    "material": [],
+    "negocio": [
+      "cafeteria",
+      "fruteria",
+      "panaderia"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Wimpys"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "wimpy-eva-mesa-formica",
+    "nombre": "Wimpy Eva Mesa Formica",
+    "imagen": "img/wimpy-eva-mesa-formica.webp",
+    "tipo": [
+      "wimpy"
+    ],
+    "material": [],
+    "negocio": [
+      "cafeteria",
+      "fruteria",
+      "panaderia"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Wimpys"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "wimpy-karla-6-p",
+    "nombre": "Wimpy Karla 6 P",
+    "imagen": "img/wimpy-karla-6-p.webp",
+    "tipo": [
+      "wimpy"
+    ],
+    "material": [],
+    "negocio": [
+      "cafeteria",
+      "fruteria",
+      "panaderia"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Wimpys"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "wimpy-karla-en-acero",
+    "nombre": "Wimpy Karla en Acero",
+    "imagen": "img/wimpy-karla-en-acero.webp",
+    "tipo": [
+      "wimpy"
+    ],
+    "material": [],
+    "negocio": [
+      "cafeteria",
+      "fruteria",
+      "panaderia"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Wimpys"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "wimpy-klauss-6-puestos",
+    "nombre": "Wimpy Klauss 6 Puestos.",
+    "imagen": "img/wimpy-klauss-6-puestos.webp",
+    "tipo": [
+      "wimpy"
+    ],
+    "material": [],
+    "negocio": [
+      "cafeteria",
+      "fruteria",
+      "panaderia"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Wimpys"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "wimpy-nakary-2puestos",
+    "nombre": "Wimpy Nakary 2puestos",
+    "imagen": "img/wimpy-nakary-2puestos.webp",
+    "tipo": [
+      "wimpy"
+    ],
+    "material": [],
+    "negocio": [
+      "cafeteria",
+      "fruteria",
+      "panaderia"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Wimpys"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "wimpy-nakary-4puestos",
+    "nombre": "Wimpy Nakary 4puestos",
+    "imagen": "img/wimpy-nakary-4puestos.webp",
+    "tipo": [
+      "wimpy"
+    ],
+    "material": [],
+    "negocio": [
+      "cafeteria",
+      "fruteria",
+      "panaderia"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Wimpys"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "wimpy-tapizado",
+    "nombre": "Wimpy Tapizado",
+    "imagen": "img/wimpy-tapizado.webp",
+    "tipo": [
+      "wimpy"
+    ],
+    "material": [],
+    "negocio": [
+      "cafeteria",
+      "fruteria",
+      "panaderia"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Wimpys"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "wimpy-trineo",
+    "nombre": "Wimpy Trineo",
+    "imagen": "img/wimpy-trineo.webp",
+    "tipo": [
+      "wimpy"
+    ],
+    "material": [],
+    "negocio": [
+      "cafeteria",
+      "fruteria",
+      "panaderia"
+    ],
+    "linea": [],
+    "carpetas_origen": [
+      "Wimpys"
+    ],
+    "medidas": "",
+    "precio": null,
+    "nuevo": false,
+    "destacado": false,
+    "composicion": []
+  },
+  {
+    "id": "gondola-pared-180",
+    "nombre": "Gondola Pared 180",
+    "imagen": "img/gondola-pared-180.webp",
+    "tipo": [
+      "gondolas"
+    ],
+    "material": [],
+    "composicion": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [],
+    "medidas": "",
+    "precio": null,
+    "nuevo": true,
+    "destacado": false
+  },
+  {
+    "id": "juego-napoli-base-x",
+    "nombre": "Juego Napoli Base X",
+    "imagen": "img/juego-napoli-base-x.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "composicion": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [],
+    "medidas": "",
+    "precio": null,
+    "nuevo": true,
+    "destacado": false
+  },
+  {
+    "id": "juego-vintage-mesa-triplex",
+    "nombre": "Juego Vintage Mesa Triplex",
+    "imagen": "img/juego-vintage-mesa-triplex.webp",
+    "tipo": [
+      "juegos"
+    ],
+    "material": [
+      "tapiz"
+    ],
+    "composicion": [],
+    "negocio": [],
+    "linea": [],
+    "carpetas_origen": [],
+    "medidas": "",
+    "precio": null,
+    "nuevo": true,
+    "destacado": false
+  }
+]
