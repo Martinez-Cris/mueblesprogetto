@@ -3,6 +3,7 @@
   "paginas": [
     {
       "slug": "juegos-de-mesa-y-sillas",
+      "foto": "img/juego-giorgia-base-dado.webp",
       "clase": "mueble",
       "nav": "Mesa + 4 sillas",
       "titulo_seo": "Juegos de mesa y 4 sillas para restaurante | Progetto",
@@ -30,6 +31,7 @@
     },
     {
       "slug": "mesas-con-sofas-y-puff",
+      "foto": "img/juego-sofi-r1.webp",
       "clase": "mueble",
       "nav": "Mesa + sofás o puff",
       "titulo_seo": "Mesas con sofás y puff para bares y zonas VIP | Progetto",
@@ -57,6 +59,7 @@
     },
     {
       "slug": "mesas-para-restaurante",
+      "foto": "img/mesa-base-x-de-90x60.webp",
       "clase": "mueble",
       "nav": "Mesas",
       "titulo_seo": "Mesas para restaurante, bar y cafetería | Progetto",
@@ -78,6 +81,7 @@
     },
     {
       "slug": "sillas-para-restaurante",
+      "foto": "img/silla-giorgia.webp",
       "clase": "mueble",
       "nav": "Sillas",
       "titulo_seo": "Sillas para restaurante y cafetería en Bogotá | Progetto",
@@ -99,6 +103,7 @@
     },
     {
       "slug": "butacos-para-bar",
+      "foto": "img/butaco-manhattan.webp",
       "clase": "mueble",
       "nav": "Butacos",
       "titulo_seo": "Butacos para bar y barra en Bogotá",
@@ -120,6 +125,7 @@
     },
     {
       "slug": "sofas-y-puff",
+      "foto": "img/sofa-chester.webp",
       "clase": "mueble",
       "nav": "Sofás y puff",
       "titulo_seo": "Sofás y puff para bares y restaurantes | Progetto",
@@ -141,6 +147,7 @@
     },
     {
       "slug": "barras-y-recepciones",
+      "foto": "img/barra-dalmata.webp",
       "clase": "mueble",
       "nav": "Barras y góndolas",
       "titulo_seo": "Barras para bar, recepciones y góndolas | Progetto",
@@ -165,6 +172,7 @@
     },
     {
       "slug": "mesas-wimpy",
+      "foto": "img/wimpy-karla-6-p.webp",
       "clase": "mueble",
       "nav": "Wimpy",
       "titulo_seo": "Mesas wimpy para panaderías y fruterías | Progetto",
@@ -186,6 +194,7 @@
     },
     {
       "slug": "mobiliario-escolar",
+      "foto": "img/mesa-redonda-infantil.webp",
       "clase": "mueble",
       "nav": "Escolar",
       "titulo_seo": "Mobiliario escolar y comedores infantiles | Progetto",

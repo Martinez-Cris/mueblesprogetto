@@ -119,6 +119,22 @@ class Pruebas(unittest.TestCase):
             for p in g.json.load(f)["paginas"]:
                 self.assertLessEqual(len(g.titulo_completo(p["titulo_seo"])), 65, p["slug"])
 
+    def test_bloque_tipos_portada(self):
+        con_foto = dict(pagina("butacos-para-bar"), foto="img/elegida.webp")
+        sin_foto = pagina("sillas-para-restaurante", secciones=[{"titulo": "Sillas", "tipo": "sillas"}])
+        negocio = pagina("muebles-para-bares", clase="negocio")
+        generadas = [(pg, g.muebles_de(pg, PRODUCTOS)) for pg in (con_foto, sin_foto, negocio)]
+        html = g.render_tipos(generadas)
+        self.assertIn('href="/butacos-para-bar/"', html)
+        self.assertIn('src="/img/elegida.webp"', html)
+        self.assertIn('src="/img/s-uno.webp"', html)      # sin foto: usa el primer mueble
+        self.assertNotIn("muebles-para-bares", html)       # solo páginas por tipo de mueble
+        self.assertIn('href="#catalogo"', html)
+
+    def test_bloque_con_marcadores_propios(self):
+        html = "<!-- tipos:inicio -->viejo<!-- tipos:fin -->"
+        self.assertEqual(g.reemplazar_bloque(html, "N", g.TIPOS_INICIO, g.TIPOS_FIN), "<!-- tipos:inicio -->N<!-- tipos:fin -->")
+
     def test_bloque_portada(self):
         html = "x<!-- paginas:inicio -->viejo<!-- paginas:fin -->y"
         nuevo = g.reemplazar_bloque(html, "NUEVO")

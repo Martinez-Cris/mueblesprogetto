@@ -260,35 +260,52 @@ p.cursiva { font-size: inherit; }
 .seccion__cab p { margin-top: .9rem; font-size: 1.1rem; color: var(--humo); }
 
 /* ---------- Negocios ---------- */
-.negocios { border-top: 1px solid var(--linea); }
-.negocio {
-  display: flex; flex-wrap: wrap; align-items: center; gap: 0 1.5rem;
-  border-bottom: 1px solid var(--linea);
+.negocios { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .85rem; }
+.negocio { position: relative; }
+.negocio__link {
+  display: flex; flex-direction: column; height: 100%; padding: .75rem .75rem 1rem;
+  border: 1px solid var(--linea); border-radius: var(--radio); background: var(--papel);
+  text-decoration: none; transition: border-color .25s, box-shadow .3s var(--suave-ease), transform .3s var(--suave-ease);
 }
-.negocio__main {
-  flex: 1 1 22rem; display: flex; align-items: center; gap: 1rem;
-  padding: 1.35rem 0; text-decoration: none;
-}
+.negocio__link img { width: 100%; aspect-ratio: 4 / 3; object-fit: contain; transition: transform .6s var(--suave-ease); }
 .negocio__nombre {
-  font-weight: 500; font-stretch: 108%; line-height: 1.1; letter-spacing: -0.02em;
-  font-size: clamp(1.45rem, 3.6vw, 2.2rem);
-  transition: transform .35s var(--suave-ease);
+  margin-top: .75rem; padding-right: 2.5rem; font-weight: 600; font-stretch: 108%; line-height: 1.15;
+  letter-spacing: -0.015em; font-size: clamp(1.05rem, 2.4vw, 1.45rem); text-wrap: balance;
 }
-.negocio__cta {
-  margin-left: auto; display: none; align-items: center; gap: .5rem;
-  font-weight: 600; white-space: nowrap; opacity: .0; transform: translateX(-8px);
-  transition: opacity .25s, transform .35s var(--suave-ease);
+.negocio__ver { margin-top: auto; padding-top: .5rem; display: inline-flex; align-items: center; gap: .45rem; font-weight: 600; font-size: .95rem; color: var(--humo); }
+.negocio__link:hover { border-color: var(--tinta); box-shadow: 0 14px 30px rgb(0 0 0 / .08); transform: translateY(-3px); }
+.negocio__link:hover img { transform: scale(1.04); }
+.negocio__link:hover .negocio__ver { color: var(--tinta); }
+.negocio__wa {
+  position: absolute; right: .7rem; bottom: .7rem; z-index: 1;
+  display: grid; place-items: center; width: 44px; height: 44px; border-radius: 999px;
+  background: var(--wa); color: #fff; transition: background-color .2s;
 }
-.negocio__main:hover .negocio__nombre, .negocio__main:focus-visible .negocio__nombre { transform: translateX(10px); }
-.negocio__main:hover .negocio__cta, .negocio__main:focus-visible .negocio__cta { opacity: 1; transform: none; }
-.negocio__extra { font-weight: 600; padding: 0 0 1.1rem; flex-basis: 100%; color: var(--humo); }
-.negocio__extra:hover { color: var(--tinta); }
-@media (min-width: 640px) {
-  .negocio__cta { display: inline-flex; }
-  .negocio__extra { flex-basis: auto; padding: 0; }
-  .negocio:has(.negocio__extra) .negocio__main { flex-basis: 0; }
+.negocio__wa:hover { background: var(--wa-hover); }
+.negocio__wa .ico { width: 1.3rem; height: 1.3rem; }
+.negocio--otro .negocio__link { background: var(--carbon); border-color: var(--carbon); color: #fff; justify-content: flex-start; gap: .6rem; }
+.negocio--otro .negocio__nombre { margin-top: .25rem; padding-right: 0; font-size: clamp(1.25rem, 2.8vw, 1.8rem); }
+.negocio__texto { color: #bdbcb6; font-size: .98rem; }
+.negocio--otro .negocio__ver { color: #fff; }
+.negocio--otro .negocio__link:hover { border-color: var(--wa); }
+@media (min-width: 860px) { .negocios { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.25rem; } .negocio__link { padding: 1rem 1rem 1.25rem; } }
+
+/* ---------- Tipos de mueble ---------- */
+.tipos { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .85rem; }
+.tipo {
+  display: flex; flex-direction: column; height: 100%; padding: .6rem .6rem .9rem;
+  border: 1px solid var(--linea); border-radius: var(--radio); background: var(--papel);
+  text-decoration: none; font-weight: 600; line-height: 1.2; transition: border-color .25s;
 }
-@media (hover: none) { .negocio__cta { opacity: 1; transform: none; } }
+.tipo img { width: 100%; aspect-ratio: 1; object-fit: contain; transition: transform .6s var(--suave-ease); }
+.tipo span { margin-top: .5rem; padding-inline: .2rem; }
+.tipo:hover { border-color: var(--tinta); }
+.tipo:hover img { transform: scale(1.05); }
+.tipo--todo { justify-content: center; align-items: center; min-height: 8rem; background: var(--tinta); border-color: var(--tinta); color: var(--papel); text-align: center; }
+.tipo--todo span::after { content: " →"; }
+.tipo--todo:hover { background: #3a3a37; }
+@media (min-width: 640px) { .tipos { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (min-width: 1000px) { .tipos { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 1.1rem; } }
 
 /* ---------- Catálogo ---------- */
 .catalogo__layout { display: grid; gap: 1.5rem; }

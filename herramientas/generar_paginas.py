@@ -14,6 +14,7 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITIO = "https://www.mueblesprogetto.co/"
 MARCA = "<!-- generado por herramientas/generar_paginas.py -->"
 INICIO, FIN = "<!-- paginas:inicio -->", "<!-- paginas:fin -->"
+TIPOS_INICIO, TIPOS_FIN = "<!-- tipos:inicio -->", "<!-- tipos:fin -->"
 SINGULAR = {"juegos": "juego de mesa y sillas", "juegos-sofas": "juego de mesa con sofás o puff", "mesas": "mesa",
             "sillas": "silla", "butacos": "butaco", "sofas-puff": "sofá o puff", "barras-recepciones": "barra",
             "wimpy": "mesa wimpy", "escolar": "mueble escolar", "gondolas": "góndola"}
@@ -281,11 +282,25 @@ def render_sitemap(paginas):
             + "".join(f"  <url><loc>{u}</loc></url>\n" for u in urls) + "</urlset>\n")
 
 
-def reemplazar_bloque(texto, nuevo):
-    a, b = texto.find(INICIO), texto.find(FIN)
+def reemplazar_bloque(texto, nuevo, inicio=INICIO, fin=FIN):
+    a, b = texto.find(inicio), texto.find(fin)
     if a < 0 or b < a:
         return texto
-    return texto[: a + len(INICIO)] + nuevo + texto[b:]
+    return texto[: a + len(inicio)] + nuevo + texto[b:]
+
+
+def render_tipos(generadas):
+    """Tarjetas con foto de las páginas por tipo de mueble, para la portada."""
+    lis = []
+    for pg, secs in generadas:
+        if pg["clase"] != "mueble":
+            continue
+        foto = pg.get("foto") or secs[0][1][0]["imagen"]
+        lis.append(f'<li><a class="tipo" href="/{e(pg["slug"])}/"><img src="/{e(foto)}" alt="" width="800" height="800" '
+                   f'loading="lazy" decoding="async"><span>{e(pg["nav"])}</span></a></li>')
+    lis.append('<li><a class="tipo tipo--todo" href="#catalogo"><span>Ver todo el catálogo</span></a></li>')
+    return f'<ul class="tipos">{"".join(lis)}</ul>'
+
 
 
 def escribir(ruta, contenido):
@@ -334,11 +349,13 @@ def main():
     ruta_index = os.path.join(RAIZ, "index.html")
     with open(ruta_index, encoding="utf-8", newline="") as f:
         index = f.read()
-    if INICIO in index:
-        if escribir(ruta_index, reemplazar_bloque(index, enlaces(todas))):
-            cambios += 1; print("  actualizados los enlaces del pie de index.html")
-    else:
-        print(f"  AVISO: index.html no tiene {INICIO} ... {FIN}; no actualicé sus enlaces")
+    nuevo = reemplazar_bloque(index, enlaces(todas))
+    nuevo = reemplazar_bloque(nuevo, render_tipos(generadas), TIPOS_INICIO, TIPOS_FIN)
+    for marca, nombre in ((INICIO, "enlaces del pie"), (TIPOS_INICIO, "tipos de mueble")):
+        if marca not in index:
+            print(f"  AVISO: index.html no tiene el marcador {marca}; no actualicé los {nombre}")
+    if escribir(ruta_index, nuevo):
+        cambios += 1; print("  actualizada la portada (index.html)")
 
     for aviso in revisar_carpetas(RAIZ, {pg["slug"] for pg in todas}, omitidas):
         print("  " + aviso)
