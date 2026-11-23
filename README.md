@@ -21,6 +21,14 @@ Mientras un mueble no tenga precio, la tarjeta muestra "Consulta el precio".
 3. Requiere `pip install pillow numpy`. El mueble queda marcado "Nuevo".
 **Nunca subas los PNG originales a GitHub**: solo el WebP con marca de agua en `img/`.
 
+## Páginas para Google
+Además del catálogo, el sitio tiene páginas fijas por tipo de mueble (`/butacos-para-bar/`, `/sillas-para-restaurante/`...) y por negocio (`/muebles-para-bares/`, `/muebles-para-restaurantes/`...). Son las que Google puede leer y mostrar en sus resultados.
+1. Cada vez que agregues muebles o cambies textos: `python herramientas/generar_paginas.py`. Regenera las páginas, `sitemap.xml` y los enlaces del pie de `index.html`.
+2. Los textos, preguntas y el precio de la visita (`visita_precio`) están en `herramientas/paginas.json`. Donde dice `{visita}` se pone ese precio.
+3. Revisa con Live Server y sube los cambios. En Search Console → Sitemaps vuelve a enviar `sitemap.xml`.
+4. Pruebas del generador: `python -m unittest herramientas/test_generar_paginas.py`.
+La carpeta `herramientas/` y este README no se publican en el sitio (`_config.yml`).
+
 ## Publicar en GitHub Pages
 1. Crea un repositorio en GitHub y sube el contenido de esta carpeta (el archivo `CNAME` ya está incluido).
 2. Settings → Pages → Source: *Deploy from a branch* → rama `main`, carpeta `/ (root)`.

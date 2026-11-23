@@ -628,3 +628,36 @@ dialog { color: var(--tinta); }
 }
 .ambiente.es-pausado .ambiente__play svg { opacity: 1; }
 .ambiente p { z-index: 2; pointer-events: none; }
+
+/* ---------- Páginas por mueble y por negocio (generadas) ---------- */
+.pagina { padding-block: clamp(1.5rem, 4vw, 2.5rem) clamp(2.5rem, 6vw, 4.5rem); }
+.migas ol { display: flex; flex-wrap: wrap; gap: .4rem; font-size: .92rem; color: var(--humo); }
+.migas li + li::before { content: "/"; margin-right: .4rem; color: var(--linea-fuerte); }
+.migas a { text-decoration: none; }
+.migas a:hover { text-decoration: underline; }
+.pagina__titulo { margin-top: 1.25rem; max-width: 22ch; font-size: clamp(2.1rem, 5.5vw, 3.5rem); }
+.pagina__intro { display: grid; gap: 1rem; max-width: 44rem; margin-top: 1.5rem; font-size: 1.1rem; color: var(--humo); }
+.pagina__intro p:first-child { color: var(--tinta); font-size: 1.18rem; }
+.pagina__nota { margin-top: 1rem; max-width: 40rem; font-size: .95rem; color: var(--humo); }
+.pagina__cierre { max-width: 40rem; margin-top: 1rem; font-size: 1.1rem; color: var(--humo); }
+.titulo--sub { font-size: clamp(1.5rem, 3.2vw, 2.1rem); margin-bottom: clamp(1.5rem, 3vw, 2.25rem); }
+.seccion--pagina { padding-block: clamp(2.5rem, 6vw, 4.5rem); }
+.muebles--estatico .mueble__foto { cursor: default; }
+.muebles--estatico .mueble__foto:hover { border-color: var(--linea); }
+.muebles--estatico .mueble__foto:hover img { transform: none; }
+.seccion__mas { margin-top: 2.25rem; }
+@media (min-width: 1000px) { .muebles--estatico { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+
+.enlaces { display: grid; gap: 1.75rem; margin-top: 2.5rem; }
+.enlaces__titulo { font-weight: 600; margin-bottom: .6rem; }
+.enlaces ul { display: flex; flex-wrap: wrap; gap: .5rem; }
+.enlaces a {
+  display: inline-block; padding: .4rem .95rem; border: 1px solid var(--linea-fuerte); border-radius: 999px;
+  text-decoration: none; font-size: .95rem;
+}
+.enlaces a:hover, .enlaces a[aria-current="page"] { background: var(--tinta); border-color: var(--tinta); color: var(--papel); }
+.pie .enlaces { margin: 0 0 2rem; padding-bottom: 2rem; border-bottom: 1px solid #3a3b3a; }
+.pie .enlaces__titulo { color: #fff; }
+.pie .enlaces a { border-color: #55564f; color: #d8d7d1; }
+.pie .enlaces a:hover { background: #fff; border-color: #fff; color: var(--tinta); }
+@media (min-width: 860px) { .enlaces { grid-template-columns: 1fr 1fr; gap: 3rem; } }
