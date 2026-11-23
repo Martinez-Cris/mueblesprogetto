@@ -163,7 +163,7 @@ def render_pagina(pagina, secciones, todas, cfg):
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{e(pagina["titulo_seo"])} | Progetto Mobiliario</title>
+  <title>{e(titulo_completo(pagina["titulo_seo"]))}</title>
   <meta name="description" content="{e(pagina["descripcion"])}">
   <link rel="canonical" href="{url}">
   <meta name="theme-color" content="#FAFAF9">
@@ -252,6 +252,29 @@ document.querySelector(".cab__menu").addEventListener("click", function () {{
 """
 
 
+def titulo_completo(titulo):
+    """Agrega la marca solo si el título sigue cabiendo en Google (~60 caracteres)."""
+    con_marca = f"{titulo} | Progetto Mobiliario"
+    return con_marca if len(con_marca) <= 60 else titulo
+
+
+def revisar_carpetas(raiz, generadas, omitidas):
+    """Avisos sobre carpetas generadas antes que hoy no se generaron. No borra nada."""
+    avisos = []
+    for d in sorted(os.listdir(raiz)):
+        ruta = os.path.join(raiz, d, "index.html")
+        if d in generadas or not os.path.isfile(ruta):
+            continue
+        with open(ruta, encoding="utf-8") as f:
+            if MARCA not in f.read(500):
+                continue
+        if d in omitidas:
+            avisos.append(f"AVISO: /{d}/ se quedó sin muebles y la página vieja sigue publicada. Agrega muebles o borra la carpeta {d}/")
+        else:
+            avisos.append(f"AVISO: /{d}/ ya no está en paginas.json. Si no la quieres, borra la carpeta {d}/")
+    return avisos
+
+
 def render_sitemap(paginas):
     urls = [SITIO] + [SITIO + p["slug"] + "/" for p in paginas]
     return ('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
@@ -291,10 +314,11 @@ def main():
     cfg = cargar_config(os.path.join(RAIZ, "js", "config.js"))
     cfg["visita_precio"] = precio
 
-    generadas = []
+    generadas, omitidas = [], set()
     for pg in conf["paginas"]:
         secs = muebles_de(pg, productos)
         if not secs:
+            omitidas.add(pg["slug"])
             print(f"  (omitida, sin muebles) /{pg['slug']}/")
             continue
         generadas.append((pg, secs))
@@ -316,13 +340,8 @@ def main():
     else:
         print(f"  AVISO: index.html no tiene {INICIO} ... {FIN}; no actualicé sus enlaces")
 
-    slugs = {pg["slug"] for pg in todas}
-    for d in sorted(os.listdir(RAIZ)):
-        ruta = os.path.join(RAIZ, d, "index.html")
-        if d not in slugs and os.path.isfile(ruta):
-            with open(ruta, encoding="utf-8") as f:
-                if MARCA in f.read(500):
-                    print(f"  AVISO: /{d}/ ya no está en paginas.json. Si no la quieres, borra la carpeta {d}/")
+    for aviso in revisar_carpetas(RAIZ, {pg["slug"] for pg in todas}, omitidas):
+        print("  " + aviso)
 
     print(f"Listo: {len(todas)} páginas, {cambios} archivos cambiados.")
 

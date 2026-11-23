@@ -98,6 +98,27 @@ class Pruebas(unittest.TestCase):
         self.assertIn("<loc>https://www.mueblesprogetto.co/a/</loc>", xml)
         self.assertIn("<loc>https://www.mueblesprogetto.co/b/</loc>", xml)
 
+    def test_aviso_pagina_vieja_sin_muebles(self):
+        with tempfile.TemporaryDirectory() as raiz:
+            for d in ("vacia", "borrada", "viva"):
+                os.makedirs(os.path.join(raiz, d))
+                with open(os.path.join(raiz, d, "index.html"), "w", encoding="utf-8") as f:
+                    f.write("<!DOCTYPE html>\n" + g.MARCA)
+            avisos = g.revisar_carpetas(raiz, generadas={"viva"}, omitidas={"vacia"})
+        self.assertEqual(len(avisos), 2)
+        self.assertTrue(any("vacia" in a and "sin muebles" in a for a in avisos))
+        self.assertTrue(any("borrada" in a and "paginas.json" in a for a in avisos))
+
+    def test_titulo_largo_sin_marca(self):
+        self.assertEqual(g.titulo_completo("Butacos para bar"), "Butacos para bar | Progetto Mobiliario")
+        largo = "x" * 50
+        self.assertEqual(g.titulo_completo(largo), largo)
+
+    def test_titulos_reales_no_se_cortan(self):
+        with open(os.path.join(g.RAIZ, "herramientas", "paginas.json"), encoding="utf-8") as f:
+            for p in g.json.load(f)["paginas"]:
+                self.assertLessEqual(len(g.titulo_completo(p["titulo_seo"])), 65, p["slug"])
+
     def test_bloque_portada(self):
         html = "x<!-- paginas:inicio -->viejo<!-- paginas:fin -->y"
         nuevo = g.reemplazar_bloque(html, "NUEVO")
