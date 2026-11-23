@@ -1,0 +1,347 @@
+{
+  "visita_precio": "$40.000",
+  "paginas": [
+    {
+      "slug": "juegos-de-mesa-y-sillas",
+      "clase": "mueble",
+      "nav": "Mesa + 4 sillas",
+      "titulo_seo": "Juegos de mesa y 4 sillas para restaurante y cafetería en Bogotá",
+      "descripcion": "Juegos de mesa con 4 sillas en acero, tapizadas, plástico y madera, fabricados en Bogotá para restaurantes, cafeterías y comedores. Cotiza por WhatsApp.",
+      "h1": "Juegos de mesa y 4 sillas para restaurantes y cafeterías",
+      "intro": [
+        "Un juego de mesa con cuatro sillas es la base de casi cualquier restaurante, cafetería o comedor. En Progetto los fabricamos en Bogotá con sillas de acero, tapizadas, de plástico o de madera, para que elijas según el estilo de tu local, el uso diario que van a tener y lo fácil que deben ser de limpiar.",
+        "Como somos fábrica, puedes pedir ajustes de medidas, colores y acabados, y armar el juego con la mesa y las sillas que mejor funcionen en tu espacio. Si vas a equipar un local completo, cuéntanos cuántas mesas necesitas y te enviamos una propuesta.",
+        "Toca Cotizar en el juego que te guste y un asesor te responde por WhatsApp con el precio y los detalles. Enviamos a las ciudades principales de Colombia."
+      ],
+      "wa_mensaje": "Hola, vi los juegos de mesa y 4 sillas en la página y quiero cotizar para mi negocio.",
+      "secciones": [
+        {"titulo": "Con sillas de plástico", "tipo": "juegos", "material": "plastico"},
+        {"titulo": "Con sillas tapizadas", "tipo": "juegos", "material": "tapiz"},
+        {"titulo": "Con sillas de madera", "tipo": "juegos", "material": "madera"},
+        {"titulo": "Con sillas de acero", "tipo": "juegos", "material": "acero"},
+        {"titulo": "Otros juegos", "tipo": "juegos"}
+      ],
+      "preguntas": [
+        ["¿Qué material de silla me conviene para un restaurante?", "Depende del uso. Las sillas de plástico y acero son resistentes y fáciles de limpiar, ideales para mucho movimiento. Las tapizadas dan más comodidad para comidas largas y la madera da un ambiente cálido. Un asesor te ayuda a elegir según tu local."],
+        ["¿Puedo cambiar el color o el tamaño de la mesa?", "Sí. Fabricamos nosotros mismos, así que puedes pedir ajustes de medidas, colores y acabados. Cuéntanos qué necesitas por WhatsApp."],
+        ["¿Venden las mesas y las sillas por separado?", "Sí. También tenemos mesas y sillas sueltas en el catálogo para que combines a tu gusto."],
+        ["¿Hacen envíos fuera de Bogotá?", "Sí, enviamos a las ciudades principales de Colombia. Escríbenos con tu ciudad y te confirmamos el envío."]
+      ]
+    },
+    {
+      "slug": "mesas-con-sofas-y-puff",
+      "clase": "mueble",
+      "nav": "Mesa + sofás o puff",
+      "titulo_seo": "Mesas con sofás y puff para bares, restaurantes y zonas VIP",
+      "descripcion": "Combinaciones de mesa con 2 sofás, sofá y sillas, o puff, fabricadas en Bogotá para bares, restaurantes, cafeterías y zonas VIP. Cotiza por WhatsApp.",
+      "h1": "Mesas con sofás y puff para bares y restaurantes",
+      "intro": [
+        "Las mesas con sofás o puff crean espacios cómodos donde la gente se queda más tiempo: zonas VIP, rincones de bar, áreas de espera o cafeterías con ambiente de sala. Fabricamos estas combinaciones en Bogotá en varias versiones: mesa con dos sofás, mesa con dos sillas y un sofá, mesa con cuatro puff, y mesa con dos puff y un sofá.",
+        "Puedes pedir el tapizado en el color de tu marca y ajustar las medidas al espacio que tienes. Si estás diseñando una zona completa, un asesor te ayuda a decidir cuántos módulos caben y cómo distribuirlos.",
+        "Toca Cotizar en la combinación que te guste o escríbenos por WhatsApp. Enviamos a las ciudades principales de Colombia."
+      ],
+      "wa_mensaje": "Hola, vi las mesas con sofás y puff en la página y quiero cotizar para mi negocio.",
+      "secciones": [
+        {"titulo": "Mesa + 2 sofás", "tipo": "juegos-sofas", "composicion": "2-sofas"},
+        {"titulo": "Mesa + 2 sillas + 1 sofá", "tipo": "juegos-sofas", "composicion": "2-sillas-1-sofa"},
+        {"titulo": "Mesa + 4 puff", "tipo": "juegos-sofas", "composicion": "4-puff"},
+        {"titulo": "Mesa + 2 puff + 1 sofá", "tipo": "juegos-sofas", "composicion": "2-puff-1-sofa"},
+        {"titulo": "Otras combinaciones", "tipo": "juegos-sofas"}
+      ],
+      "preguntas": [
+        ["¿Puedo elegir el color del tapizado?", "Sí. Puedes pedir colores y acabados distintos a los de la foto. Escríbenos y te mostramos las opciones."],
+        ["¿Sirven para una zona VIP?", "Sí, son de las combinaciones más pedidas para zonas VIP de bares y discotecas. También tenemos sofás y puff sueltos para completar el espacio."],
+        ["¿Pueden hacer el sofá a la medida de mi pared?", "Fabricamos nosotros mismos, así que podemos ajustar medidas. Envíanos las medidas de tu espacio por WhatsApp."],
+        ["¿Hacen envíos fuera de Bogotá?", "Sí, enviamos a las ciudades principales de Colombia."]
+      ]
+    },
+    {
+      "slug": "mesas-para-restaurante",
+      "clase": "mueble",
+      "nav": "Mesas",
+      "titulo_seo": "Mesas para restaurante, bar y cafetería fabricadas en Bogotá",
+      "descripcion": "Mesas para restaurantes, bares y cafeterías: cuadradas, redondas, altas y bajas, fabricadas en Bogotá con medidas y acabados a tu gusto. Cotiza por WhatsApp.",
+      "h1": "Mesas para restaurantes, bares y cafeterías",
+      "intro": [
+        "Elegir bien las mesas define cuántas personas caben en tu local y cómo se mueven entre ellas. En Progetto fabricamos en Bogotá mesas para restaurantes, bares y cafeterías en distintos diseños, bases y superficies, para que las combines con las sillas o butacos que ya tienes o con los de nuestro catálogo.",
+        "Como somos fábrica, puedes pedir la mesa con otras medidas, colores o acabados. Si no sabes qué tamaño te conviene, cuéntanos el espacio de tu local y un asesor te recomienda.",
+        "Toca Cotizar en la mesa que te guste y te respondemos por WhatsApp. Enviamos a las ciudades principales de Colombia."
+      ],
+      "wa_mensaje": "Hola, vi las mesas en la página y quiero cotizar para mi negocio.",
+      "secciones": [{"titulo": "Mesas", "tipo": "mesas"}],
+      "preguntas": [
+        ["¿Fabrican mesas a la medida?", "Sí. Puedes pedir ajustes de medidas, colores y acabados. Envíanos lo que necesitas por WhatsApp."],
+        ["¿Tienen mesas altas para bar?", "Sí, y las puedes combinar con nuestros butacos. Pregúntale a un asesor por la altura que necesitas."],
+        ["¿Venden la mesa con sillas?", "Sí. Tenemos juegos completos de mesa con 4 sillas y también mesas con sofás o puff."],
+        ["¿Hacen envíos fuera de Bogotá?", "Sí, enviamos a las ciudades principales de Colombia."]
+      ]
+    },
+    {
+      "slug": "sillas-para-restaurante",
+      "clase": "mueble",
+      "nav": "Sillas",
+      "titulo_seo": "Sillas para restaurante y cafetería fabricadas en Bogotá",
+      "descripcion": "Sillas para restaurantes, cafeterías y bares en acero, madera, plástico y tapizadas, fabricadas en Bogotá. Pide colores y acabados a tu gusto. Cotiza por WhatsApp.",
+      "h1": "Sillas para restaurantes y cafeterías",
+      "intro": [
+        "Las sillas de un restaurante se usan todo el día: tienen que ser resistentes, cómodas y fáciles de limpiar, y además verse bien con el estilo del local. En Progetto fabricamos en Bogotá sillas para restaurantes, cafeterías y bares en diferentes materiales y diseños.",
+        "Puedes pedirlas en otros colores o acabados, y combinarlas con nuestras mesas o con las que ya tienes. Si vas a comprar varias, cuéntanos cuántas necesitas y te enviamos la cotización completa.",
+        "Toca Cotizar en la silla que te guste y un asesor te responde por WhatsApp. Enviamos a las ciudades principales de Colombia."
+      ],
+      "wa_mensaje": "Hola, vi las sillas en la página y quiero cotizar para mi negocio.",
+      "secciones": [{"titulo": "Sillas", "tipo": "sillas"}],
+      "preguntas": [
+        ["¿Qué silla es más fácil de limpiar?", "Las de plástico y las de acero son las más prácticas para negocios con mucho movimiento. Las tapizadas se pueden pedir en materiales fáciles de limpiar; pregúntale a un asesor."],
+        ["¿Puedo pedir otro color?", "Sí. Fabricamos nosotros mismos, así que puedes pedir colores y acabados distintos."],
+        ["¿Tienen sillas para exterior o terraza?", "Escríbenos contándonos el espacio y te recomendamos las opciones más adecuadas del catálogo."],
+        ["¿Hacen envíos fuera de Bogotá?", "Sí, enviamos a las ciudades principales de Colombia."]
+      ]
+    },
+    {
+      "slug": "butacos-para-bar",
+      "clase": "mueble",
+      "nav": "Butacos",
+      "titulo_seo": "Butacos para bar y barra fabricados en Bogotá",
+      "descripcion": "Butacos para bar, barra y cocina en acero, madera y tapizados, con y sin espaldar, fabricados en Bogotá. Cotiza por WhatsApp con un asesor.",
+      "h1": "Butacos para bar y barra",
+      "intro": [
+        "Los butacos aprovechan mejor el espacio en barras, mesas altas y zonas de espera de bares, cafeterías y restaurantes. En Progetto fabricamos en Bogotá butacos con y sin espaldar, en acero, madera y tapizados, en estilos que van del industrial al clásico.",
+        "Puedes pedir la altura que necesites según tu barra o mesa, y ajustar colores y acabados. Si no sabes qué altura te conviene, envíanos la medida de tu barra y un asesor te recomienda.",
+        "Toca Cotizar en el butaco que te guste y te respondemos por WhatsApp. Enviamos a las ciudades principales de Colombia."
+      ],
+      "wa_mensaje": "Hola, vi los butacos en la página y quiero cotizar para mi negocio.",
+      "secciones": [{"titulo": "Butacos", "tipo": "butacos"}],
+      "preguntas": [
+        ["¿Qué altura de butaco necesito para mi barra?", "Depende de la altura de tu barra o mesa. Envíanos esa medida por WhatsApp y te decimos la altura de butaco adecuada."],
+        ["¿Tienen butacos con espaldar?", "Sí, tenemos modelos con y sin espaldar. Los verás en esta página."],
+        ["¿Puedo pedir otro color o tapizado?", "Sí. Puedes pedir colores y acabados distintos a los de la foto."],
+        ["¿Hacen envíos fuera de Bogotá?", "Sí, enviamos a las ciudades principales de Colombia."]
+      ]
+    },
+    {
+      "slug": "sofas-y-puff",
+      "clase": "mueble",
+      "nav": "Sofás y puff",
+      "titulo_seo": "Sofás y puff para bares, restaurantes y zonas VIP en Bogotá",
+      "descripcion": "Sofás, sillones y puff tapizados para bares, discotecas, restaurantes, salas de espera y zonas VIP, fabricados en Bogotá. Cotiza por WhatsApp.",
+      "h1": "Sofás y puff para bares, restaurantes y zonas VIP",
+      "intro": [
+        "Los sofás y puff le dan carácter a un local: arman zonas VIP, salas de espera y rincones donde los clientes se sienten cómodos. En Progetto fabricamos en Bogotá sofás y puff tapizados en distintos estilos para bares, discotecas, restaurantes y otros negocios.",
+        "Puedes pedir el tapizado en el color de tu marca y ajustar las medidas a tu espacio. También puedes combinarlos con nuestras mesas para armar el conjunto completo.",
+        "Toca Cotizar en el que te guste y un asesor te responde por WhatsApp. Enviamos a las ciudades principales de Colombia."
+      ],
+      "wa_mensaje": "Hola, vi los sofás y puff en la página y quiero cotizar para mi negocio.",
+      "secciones": [{"titulo": "Sofás y puff", "tipo": "sofas-puff"}],
+      "preguntas": [
+        ["¿Puedo elegir el color y el material del tapizado?", "Sí. Escríbenos y te mostramos las opciones de colores y acabados."],
+        ["¿Pueden hacer un sofá a la medida?", "Fabricamos nosotros mismos, así que podemos ajustar medidas. Envíanos las medidas de tu espacio por WhatsApp."],
+        ["¿Tienen el sofá con mesa?", "Sí. Mira también las combinaciones de mesa con sofás y puff."],
+        ["¿Hacen envíos fuera de Bogotá?", "Sí, enviamos a las ciudades principales de Colombia."]
+      ]
+    },
+    {
+      "slug": "barras-y-recepciones",
+      "clase": "mueble",
+      "nav": "Barras y góndolas",
+      "titulo_seo": "Barras para bar, recepciones y góndolas fabricadas en Bogotá",
+      "descripcion": "Barras para bar y cafetería, muebles de recepción y góndolas para tiendas, fabricados en Bogotá con medidas a tu gusto. Cotiza por WhatsApp.",
+      "h1": "Barras para bar, recepciones y góndolas",
+      "intro": [
+        "La barra es el centro de un bar o una cafetería, y la recepción es lo primero que ve un cliente al entrar. En Progetto fabricamos en Bogotá barras y muebles de recepción en distintos diseños y acabados, además de góndolas para exhibir productos en tiendas, panaderías y fruterías.",
+        "Como cada local es distinto, puedes pedir ajustes de medidas, colores y acabados. Envíanos las medidas de tu espacio y un asesor te ayuda a definir el mueble.",
+        "Toca Cotizar en el modelo que te guste o escríbenos por WhatsApp. Enviamos a las ciudades principales de Colombia."
+      ],
+      "wa_mensaje": "Hola, vi las barras y recepciones en la página y quiero cotizar para mi negocio.",
+      "secciones": [
+        {"titulo": "Barras y recepciones", "tipo": "barras-recepciones"},
+        {"titulo": "Góndolas", "tipo": "gondolas"}
+      ],
+      "preguntas": [
+        ["¿Fabrican la barra a la medida de mi local?", "Sí. Fabricamos nosotros mismos y ajustamos medidas, colores y acabados. Envíanos las medidas por WhatsApp."],
+        ["¿Qué butacos combinan con la barra?", "Tenemos butacos en varias alturas y estilos. Un asesor te recomienda según la altura de tu barra."],
+        ["¿Hacen visitas para tomar medidas?", "Sí, en Bogotá, con un costo de {visita}. Fuera de Bogotá te asesoramos por WhatsApp con las medidas que nos envíes."],
+        ["¿Hacen envíos fuera de Bogotá?", "Sí, enviamos a las ciudades principales de Colombia."]
+      ]
+    },
+    {
+      "slug": "mesas-wimpy",
+      "clase": "mueble",
+      "nav": "Wimpy",
+      "titulo_seo": "Mesas wimpy para panaderías, fruterías y cafeterías en Bogotá",
+      "descripcion": "Mesas wimpy con sillas incorporadas para panaderías, fruterías, cafeterías y comidas rápidas, fabricadas en Bogotá. Cotiza por WhatsApp.",
+      "h1": "Mesas wimpy para panaderías, fruterías y cafeterías",
+      "intro": [
+        "Las mesas wimpy, con las sillas unidas a la estructura, son prácticas para panaderías, fruterías, cafeterías y comidas rápidas: ocupan poco espacio, se mantienen ordenadas y son fáciles de limpiar. En Progetto las fabricamos en Bogotá en varios modelos y materiales.",
+        "Puedes pedir ajustes de colores y acabados para que combinen con tu local. Si vas a equipar todo el salón, cuéntanos cuántos puestos necesitas y te enviamos una propuesta.",
+        "Toca Cotizar en el modelo que te guste y te respondemos por WhatsApp. Enviamos a las ciudades principales de Colombia."
+      ],
+      "wa_mensaje": "Hola, vi las mesas wimpy en la página y quiero cotizar para mi negocio.",
+      "secciones": [{"titulo": "Mesas wimpy", "tipo": "wimpy"}],
+      "preguntas": [
+        ["¿Qué es una mesa wimpy?", "Es una mesa con las sillas o bancas unidas a la misma estructura. Es muy usada en panaderías, fruterías y comidas rápidas porque ahorra espacio y es fácil de limpiar."],
+        ["¿Puedo pedirla en otro color?", "Sí. Puedes pedir colores y acabados distintos a los de la foto."],
+        ["¿Hacen visitas para tomar medidas del local?", "Sí, en Bogotá, con un costo de {visita}. Fuera de Bogotá te asesoramos por WhatsApp."],
+        ["¿Hacen envíos fuera de Bogotá?", "Sí, enviamos a las ciudades principales de Colombia."]
+      ]
+    },
+    {
+      "slug": "mobiliario-escolar",
+      "clase": "mueble",
+      "nav": "Escolar",
+      "titulo_seo": "Mobiliario escolar y comedores infantiles fabricados en Bogotá",
+      "descripcion": "Mesas escolares, comedores infantiles, mesas modulares y escritorios de profesor para colegios y jardines, fabricados en Bogotá. Cotiza por WhatsApp.",
+      "h1": "Mobiliario escolar para colegios y jardines",
+      "intro": [
+        "Fabricamos en Bogotá mobiliario escolar para colegios, jardines infantiles e instituciones: comedores infantiles, mesas modulares, mesas de dibujo, juegos escolares y escritorios de profesor.",
+        "Puedes pedir ajustes de medidas y colores según la edad de los estudiantes y el espacio de cada salón. Si vas a dotar varios salones, cuéntanos cuántos puestos necesitas y te enviamos una propuesta.",
+        "Toca Cotizar en el mueble que te guste o escríbenos por WhatsApp. Enviamos a las ciudades principales de Colombia."
+      ],
+      "wa_mensaje": "Hola, vi el mobiliario escolar en la página y quiero cotizar para un colegio.",
+      "secciones": [{"titulo": "Mobiliario escolar", "tipo": "escolar"}],
+      "preguntas": [
+        ["¿Fabrican mesas a la altura de los niños?", "Sí. Podemos ajustar medidas según la edad de los estudiantes. Cuéntanos para qué grados es el mobiliario."],
+        ["¿Atienden pedidos grandes para colegios?", "Sí. Escríbenos con la cantidad de puestos y salones y te enviamos una propuesta."],
+        ["¿Puedo pedir otros colores?", "Sí. Puedes pedir colores y acabados distintos a los de la foto."],
+        ["¿Hacen envíos fuera de Bogotá?", "Sí, enviamos a las ciudades principales de Colombia."]
+      ]
+    },
+    {
+      "slug": "muebles-para-bares",
+      "clase": "negocio",
+      "nav": "Bares y discotecas",
+      "titulo_seo": "Muebles para bares y discotecas en Bogotá: butacos, barras y sofás",
+      "descripcion": "Muebles para bares y discotecas: butacos, barras, sofás, puff y mesas para zonas VIP, fabricados en Bogotá. Asesoría por WhatsApp y visita para tomar medidas.",
+      "h1": "Muebles para bares y discotecas",
+      "cta": "Pedir asesoría por WhatsApp",
+      "intro": [
+        "Montar o renovar un bar empieza por decidir cómo se va a usar el espacio: cuánta gente va a estar en la barra, dónde van las mesas altas y si vas a tener una zona VIP con sofás. En Progetto fabricamos en Bogotá todo el mobiliario para bares y discotecas: butacos, barras, mesas, sofás y puff.",
+        "Te ayudamos a escoger y a distribuir los muebles según el tamaño de tu local y el ambiente que quieres lograr. Puedes pedir ajustes de medidas, colores y tapizados para que todo combine con tu marca.",
+        "Escríbenos por WhatsApp contándonos de tu bar. Si estás en Bogotá, también podemos ir a tomar medidas."
+      ],
+      "wa_mensaje": "Hola, tengo un bar o discoteca y quiero asesoría para los muebles.",
+      "wa_visita": "Hola, tengo un bar en Bogotá y quiero agendar una visita para tomar medidas.",
+      "secciones": [
+        {"titulo": "Butacos para la barra", "tipo": "butacos", "max": 8, "enlace": "butacos-para-bar"},
+        {"titulo": "Barras", "tipo": "barras-recepciones", "max": 8, "enlace": "barras-y-recepciones"},
+        {"titulo": "Mesas con sofás y puff para zonas VIP", "tipo": "juegos-sofas", "max": 8, "enlace": "mesas-con-sofas-y-puff"},
+        {"titulo": "Sofás y puff", "tipo": "sofas-puff", "max": 8, "enlace": "sofas-y-puff"},
+        {"titulo": "Mesas", "tipo": "mesas", "max": 8, "enlace": "mesas-para-restaurante"}
+      ],
+      "preguntas": [
+        ["¿Me ayudan a elegir los muebles para mi bar?", "Sí. Cuéntanos el tamaño de tu local, el estilo que buscas y cuántas personas quieres recibir, y un asesor te arma una propuesta."],
+        ["¿Hacen visitas para tomar medidas?", "Sí, en Bogotá, con un costo de {visita}. Fuera de Bogotá te asesoramos por WhatsApp con las medidas y fotos que nos envíes."],
+        ["¿Pueden tapizar los sofás con los colores de mi marca?", "Sí. Fabricamos nosotros mismos y ajustamos colores, tapizados y medidas."],
+        ["¿Hacen envíos fuera de Bogotá?", "Sí, enviamos a las ciudades principales de Colombia."]
+      ]
+    },
+    {
+      "slug": "muebles-para-restaurantes",
+      "clase": "negocio",
+      "nav": "Restaurantes",
+      "titulo_seo": "Muebles para restaurantes en Bogotá: mesas, sillas y juegos",
+      "descripcion": "Muebles para restaurantes: juegos de mesa y sillas, mesas, sillas y sofás, fabricados en Bogotá. Asesoría por WhatsApp y visita para tomar medidas.",
+      "h1": "Muebles para restaurantes",
+      "cta": "Pedir asesoría por WhatsApp",
+      "intro": [
+        "En un restaurante, los muebles definen cuántos clientes puedes atender, qué tan cómodos se sienten y la imagen que se llevan del lugar. En Progetto fabricamos en Bogotá mesas, sillas, juegos completos y combinaciones con sofás para restaurantes de todo tipo.",
+        "Si estás montando tu restaurante, te ayudamos a calcular cuántas mesas caben y a escoger materiales que aguanten el uso diario. Puedes pedir ajustes de medidas, colores y acabados para que todo combine.",
+        "Escríbenos por WhatsApp contándonos de tu restaurante. Si estás en Bogotá, también podemos ir a tomar medidas."
+      ],
+      "wa_mensaje": "Hola, tengo un restaurante y quiero asesoría para los muebles.",
+      "wa_visita": "Hola, tengo un restaurante en Bogotá y quiero agendar una visita para tomar medidas.",
+      "secciones": [
+        {"titulo": "Juegos de mesa y 4 sillas", "tipo": "juegos", "max": 8, "enlace": "juegos-de-mesa-y-sillas"},
+        {"titulo": "Mesas con sofás y puff", "tipo": "juegos-sofas", "max": 8, "enlace": "mesas-con-sofas-y-puff"},
+        {"titulo": "Mesas", "tipo": "mesas", "max": 8, "enlace": "mesas-para-restaurante"},
+        {"titulo": "Sillas", "tipo": "sillas", "max": 8, "enlace": "sillas-para-restaurante"}
+      ],
+      "preguntas": [
+        ["¿Cuántas mesas caben en mi restaurante?", "Depende del área y de cómo quieras distribuirla. Envíanos las medidas o un plano por WhatsApp y te ayudamos a calcularlo."],
+        ["¿Hacen visitas para tomar medidas?", "Sí, en Bogotá, con un costo de {visita}. Fuera de Bogotá te asesoramos por WhatsApp con las medidas y fotos que nos envíes."],
+        ["¿Qué materiales aguantan más el uso diario?", "El acero y el plástico son muy resistentes y fáciles de limpiar. Las sillas tapizadas dan más comodidad. Un asesor te recomienda según tu tipo de restaurante."],
+        ["¿Hacen envíos fuera de Bogotá?", "Sí, enviamos a las ciudades principales de Colombia."]
+      ]
+    },
+    {
+      "slug": "muebles-para-cafeterias",
+      "clase": "negocio",
+      "nav": "Cafeterías",
+      "titulo_seo": "Muebles para cafeterías en Bogotá: mesas, sillas, butacos y wimpy",
+      "descripcion": "Muebles para cafeterías: juegos de mesa, butacos, sillas, mesas wimpy y sofás, fabricados en Bogotá. Asesoría por WhatsApp y visita para tomar medidas.",
+      "h1": "Muebles para cafeterías",
+      "cta": "Pedir asesoría por WhatsApp",
+      "intro": [
+        "Una cafetería necesita muebles que inviten a quedarse y que, al mismo tiempo, aprovechen bien un espacio que muchas veces es pequeño. En Progetto fabricamos en Bogotá juegos de mesa y sillas, butacos para barra, mesas wimpy y combinaciones con sofás para cafeterías.",
+        "Te ayudamos a escoger la mezcla correcta: mesas para grupos, butacos junto a la ventana o la barra, y un rincón cómodo con sofás. Puedes pedir ajustes de medidas, colores y acabados para darle a tu café su propio estilo.",
+        "Escríbenos por WhatsApp contándonos de tu cafetería. Si estás en Bogotá, también podemos ir a tomar medidas."
+      ],
+      "wa_mensaje": "Hola, tengo una cafetería y quiero asesoría para los muebles.",
+      "wa_visita": "Hola, tengo una cafetería en Bogotá y quiero agendar una visita para tomar medidas.",
+      "secciones": [
+        {"titulo": "Juegos de mesa y 4 sillas", "tipo": "juegos", "max": 8, "enlace": "juegos-de-mesa-y-sillas"},
+        {"titulo": "Butacos para barra y ventana", "tipo": "butacos", "max": 8, "enlace": "butacos-para-bar"},
+        {"titulo": "Mesas wimpy", "tipo": "wimpy", "max": 8, "enlace": "mesas-wimpy"},
+        {"titulo": "Mesas con sofás y puff", "tipo": "juegos-sofas", "max": 8, "enlace": "mesas-con-sofas-y-puff"}
+      ],
+      "preguntas": [
+        ["Mi cafetería es pequeña, ¿qué muebles me recomiendan?", "Los butacos en barra y las mesas wimpy aprovechan muy bien el espacio. Envíanos las medidas de tu local y te proponemos una distribución."],
+        ["¿Hacen visitas para tomar medidas?", "Sí, en Bogotá, con un costo de {visita}. Fuera de Bogotá te asesoramos por WhatsApp con las medidas y fotos que nos envíes."],
+        ["¿Puedo pedir los muebles en los colores de mi café?", "Sí. Fabricamos nosotros mismos y ajustamos colores, acabados y medidas."],
+        ["¿Hacen envíos fuera de Bogotá?", "Sí, enviamos a las ciudades principales de Colombia."]
+      ]
+    },
+    {
+      "slug": "muebles-para-panaderias-y-fruterias",
+      "clase": "negocio",
+      "nav": "Panaderías y fruterías",
+      "titulo_seo": "Muebles para panaderías y fruterías en Bogotá: mesas wimpy y góndolas",
+      "descripcion": "Muebles para panaderías y fruterías: mesas wimpy, góndolas, butacos y juegos de mesa, fabricados en Bogotá. Asesoría por WhatsApp y visita para tomar medidas.",
+      "h1": "Muebles para panaderías y fruterías",
+      "cta": "Pedir asesoría por WhatsApp",
+      "intro": [
+        "En una panadería o frutería los clientes entran, comen algo rápido y siguen su camino, así que los muebles tienen que ser resistentes, fáciles de limpiar y ocupar poco espacio. En Progetto fabricamos en Bogotá mesas wimpy, góndolas para exhibir productos, butacos y juegos de mesa pensados para este tipo de negocio.",
+        "Te ayudamos a distribuir el salón para que quepan más puestos sin estorbar la circulación. Puedes pedir ajustes de medidas, colores y acabados.",
+        "Escríbenos por WhatsApp contándonos de tu negocio. Si estás en Bogotá, también podemos ir a tomar medidas."
+      ],
+      "wa_mensaje": "Hola, tengo una panadería o frutería y quiero asesoría para los muebles.",
+      "wa_visita": "Hola, tengo una panadería o frutería en Bogotá y quiero agendar una visita para tomar medidas.",
+      "secciones": [
+        {"titulo": "Mesas wimpy", "tipo": "wimpy", "max": 8, "enlace": "mesas-wimpy"},
+        {"titulo": "Góndolas", "tipo": "gondolas", "max": 8, "enlace": "barras-y-recepciones"},
+        {"titulo": "Butacos", "tipo": "butacos", "max": 8, "enlace": "butacos-para-bar"},
+        {"titulo": "Juegos de mesa con sillas de plástico", "tipo": "juegos", "material": "plastico", "max": 8, "enlace": "juegos-de-mesa-y-sillas"}
+      ],
+      "preguntas": [
+        ["¿Qué muebles se usan más en panaderías?", "Las mesas wimpy son las más pedidas porque ahorran espacio y son fáciles de limpiar. También se usan butacos en barra y juegos de mesa con sillas de plástico."],
+        ["¿Hacen visitas para tomar medidas?", "Sí, en Bogotá, con un costo de {visita}. Fuera de Bogotá te asesoramos por WhatsApp con las medidas y fotos que nos envíes."],
+        ["¿Fabrican góndolas para exhibir productos?", "Sí, tenemos góndolas de pared y centrales. Pregúntanos por las medidas que necesitas."],
+        ["¿Hacen envíos fuera de Bogotá?", "Sí, enviamos a las ciudades principales de Colombia."]
+      ]
+    },
+    {
+      "slug": "muebles-para-colegios",
+      "clase": "negocio",
+      "nav": "Colegios y jardines",
+      "titulo_seo": "Muebles para colegios y jardines infantiles en Bogotá",
+      "descripcion": "Muebles para colegios y jardines infantiles: comedores infantiles, mesas escolares modulares y escritorios de profesor, fabricados en Bogotá. Cotiza por WhatsApp.",
+      "h1": "Muebles para colegios y jardines infantiles",
+      "cta": "Pedir asesoría por WhatsApp",
+      "intro": [
+        "Dotar un colegio o un jardín infantil requiere muebles seguros, resistentes y del tamaño adecuado para cada edad. En Progetto fabricamos en Bogotá comedores infantiles, mesas escolares modulares, mesas de dibujo, juegos escolares y escritorios de profesor.",
+        "Te ayudamos a definir cantidades por salón y a escoger los modelos según la edad de los estudiantes. Puedes pedir ajustes de medidas y colores.",
+        "Escríbenos por WhatsApp contándonos de tu institución. Si estás en Bogotá, también podemos ir a tomar medidas."
+      ],
+      "wa_mensaje": "Hola, quiero asesoría para muebles de un colegio o jardín infantil.",
+      "wa_visita": "Hola, tengo un colegio o jardín en Bogotá y quiero agendar una visita para tomar medidas.",
+      "secciones": [
+        {"titulo": "Mobiliario escolar", "tipo": "escolar", "enlace": "mobiliario-escolar"}
+      ],
+      "preguntas": [
+        ["¿Fabrican muebles según la edad de los niños?", "Sí. Ajustamos medidas según la edad de los estudiantes. Cuéntanos para qué grados es el mobiliario."],
+        ["¿Hacen visitas para tomar medidas?", "Sí, en Bogotá, con un costo de {visita}. Fuera de Bogotá te asesoramos por WhatsApp."],
+        ["¿Atienden pedidos para varios salones?", "Sí. Envíanos la cantidad de puestos y salones y te preparamos una propuesta."],
+        ["¿Hacen envíos fuera de Bogotá?", "Sí, enviamos a las ciudades principales de Colombia."]
+      ]
+    }
+  ]
+}
