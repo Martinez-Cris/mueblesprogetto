@@ -379,6 +379,7 @@ p.cursiva { font-size: inherit; }
 .mueble__precio--consulta { font-weight: 400; font-size: .9rem; color: var(--humo); }
 .mueble__acciones { display: flex; gap: .4rem; margin-top: .75rem; }
 .mueble__acciones .btn { flex: 1 1 0; min-width: 0; padding-inline: .6rem; white-space: nowrap; font-weight: 600; }
+@media (max-width: 479px) { .mueble__acciones { flex-direction: column; } .mueble__acciones .btn { flex: none; width: 100%; } }
 
 .catalogo__estado { margin-bottom: 1.25rem; color: var(--humo); font-size: .95rem; }
 .vacio { padding: 2rem 0; display: grid; gap: 1.25rem; justify-items: start; max-width: 30rem; }
