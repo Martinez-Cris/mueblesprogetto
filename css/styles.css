@@ -659,9 +659,6 @@ dialog { color: var(--tinta); }
 .pagina__cierre { max-width: 40rem; margin-top: 1rem; font-size: 1.1rem; color: var(--humo); }
 .titulo--sub { font-size: clamp(1.5rem, 3.2vw, 2.1rem); margin-bottom: clamp(1.5rem, 3vw, 2.25rem); }
 .seccion--pagina { padding-block: clamp(2.5rem, 6vw, 4.5rem); }
-.muebles--estatico .mueble__foto { cursor: default; }
-.muebles--estatico .mueble__foto:hover { border-color: var(--linea); }
-.muebles--estatico .mueble__foto:hover img { transform: none; }
 .seccion__mas { margin-top: 2.25rem; }
 @media (min-width: 1000px) { .muebles--estatico { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
 

@@ -89,6 +89,13 @@ def sprite():
     return m.group(0) if m else ""
 
 
+def ventanas():
+    """Visor de fotos y Mi cotización, copiados de index.html para que se vean y funcionen igual."""
+    with open(os.path.join(RAIZ, "index.html"), encoding="utf-8") as f:
+        index = f.read()
+    return "\n\n".join(re.findall(r'<dialog class="(?:visor|cotiza)".*?</dialog>', index, re.S))
+
+
 ICO = lambda n: f'<svg class="ico" aria-hidden="true"><use href="#i-{n}"/></svg>'
 
 
@@ -96,12 +103,16 @@ def tarjeta(p, cfg):
     tipo = SINGULAR.get((p.get("tipo") or [""])[0], "mueble")
     msg = cfg["mueble"].replace("{nombre}", p["nombre"])
     nuevo = '<span class="mueble__nuevo">Nuevo</span>' if p.get("nuevo") else ""
-    return (f'<li class="mueble"><div class="mueble__foto">{nuevo}'
-            f'<img src="/{e(p["imagen"])}" alt="{e(p["nombre"])}, {e(tipo)} fabricado por Progetto en Bogotá" '
-            f'width="800" height="800" loading="lazy" decoding="async"></div>'
-            f'<h3 class="mueble__nombre">{e(p["nombre"])}</h3>'
+    n = e(p["nombre"])
+    return (f'<li class="mueble" data-id="{e(p["id"])}">'
+            f'<button class="mueble__foto" type="button" data-abrir aria-label="Ver {n} en grande">{nuevo}'
+            f'<img src="/{e(p["imagen"])}" alt="{n}, {e(tipo)} fabricado por Progetto en Bogotá" '
+            f'width="800" height="800" loading="lazy" decoding="async"></button>'
+            f'<h3 class="mueble__nombre">{n}</h3>'
             f'<div class="mueble__acciones"><a class="btn btn--wa btn--sm" href="{e(wa(cfg["whatsapp"], msg))}" '
-            f'target="_blank" rel="noopener" aria-label="Cotizar {e(p["nombre"])} por WhatsApp">{ICO("whatsapp")}Cotizar</a></div></li>')
+            f'target="_blank" rel="noopener" aria-label="Cotizar {n} por WhatsApp">{ICO("whatsapp")}Cotizar</a>'
+            f'<button class="btn btn--linea btn--sm" type="button" data-agregar aria-pressed="false" '
+            f'aria-label="Agregar {n} a mi cotización">Agregar</button></div></li>')
 
 
 def json_ld(pagina, secciones):
@@ -200,6 +211,7 @@ def render_pagina(pagina, secciones, todas, cfg):
       <a href="/#contacto">Contacto</a>
     </nav>
     <div class="cab__acciones">
+      <button class="btn btn--linea btn--sm cab__cotiza" type="button" data-abrir-cotizacion>{ICO("lista")}<span class="cab__cotiza-texto">Mi cotización</span><span class="cuenta" data-cuenta data-vacia="true" aria-label="muebles en tu cotización">0</span></button>
       <a class="btn btn--wa btn--sm cab__wa" href="{wa_pag}" target="_blank" rel="noopener">{ICO("whatsapp")}<span class="cab__wa-texto">Hablar con un asesor</span><span class="sr-only">por WhatsApp</span></a>
       <button class="btn btn--linea btn--sm cab__menu" type="button" aria-expanded="false" aria-controls="menu"><span class="sr-only">Menú</span>{ICO("menu")}</button>
     </div>
@@ -245,12 +257,10 @@ def render_pagina(pagina, secciones, todas, cfg):
 
 <a class="flota" href="{wa_pag}" target="_blank" rel="noopener">{ICO("whatsapp")}<span class="flota__texto">Habla con un asesor</span><span class="sr-only">por WhatsApp</span></a>
 
-<script>
-document.querySelector(".cab__menu").addEventListener("click", function () {{
-  var abierto = document.getElementById("menu").classList.toggle("es-abierto");
-  this.setAttribute("aria-expanded", String(abierto));
-}});
-</script>
+{ventanas()}
+
+<script src="/js/config.js" defer></script>
+<script src="/js/paginas.js" defer></script>
 </body>
 </html>
 """

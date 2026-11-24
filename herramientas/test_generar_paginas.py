@@ -96,6 +96,19 @@ class Pruebas(unittest.TestCase):
         self.assertIn('src="/img/b-alfa.webp"', html)
         self.assertIn("https://wa.me/57300?text=Hola%2C%20vi%20los%20butacos.", html)
 
+    def test_pagina_permite_ver_en_grande_y_agregar(self):
+        cfg = {"whatsapp": "57300", "mueble": "{nombre}"}
+        pg = pagina()
+        html = g.render_pagina(pg, g.muebles_de(pg, PRODUCTOS), [pg], cfg)
+        self.assertIn('<li class="mueble" data-id="b-alfa">', html)
+        self.assertIn('<button class="mueble__foto" type="button" data-abrir aria-label="Ver Butaco Álfa en grande">', html)
+        self.assertIn('data-agregar aria-pressed="false"', html)
+        self.assertIn('id="visor"', html)                 # ventanas copiadas de la portada
+        self.assertIn('id="cotiza"', html)
+        self.assertIn("data-abrir-cotizacion", html)
+        self.assertIn('<script src="/js/config.js" defer></script>', html)
+        self.assertIn('<script src="/js/paginas.js" defer></script>', html)
+
     def test_sitemap_incluye_portada_y_paginas(self):
         xml = g.render_sitemap([pagina("a"), pagina("b")])
         self.assertIn("<loc>https://www.mueblesprogetto.co/</loc>", xml)
