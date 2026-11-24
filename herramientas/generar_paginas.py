@@ -65,6 +65,9 @@ def muebles_de(pagina, productos):
     orden = lambda p: (not p.get("nuevo"), sin_acentos(p["nombre"]))
     for s in pagina["secciones"]:
         lista = sorted((p for p in productos if p["id"] not in vistos and _cumple(p, s)), key=orden)
+        if s.get("primero"):
+            pos = {id_: i for i, id_ in enumerate(s["primero"])}
+            lista.sort(key=lambda p: pos.get(p["id"], len(pos)))   # estable: el resto conserva su orden
         if "max" in s:
             lista = lista[: s["max"]]
         if lista:

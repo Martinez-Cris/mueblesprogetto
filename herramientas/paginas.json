@@ -219,22 +219,23 @@
       "clase": "negocio",
       "nav": "Bares y discotecas",
       "titulo_seo": "Muebles para bares y discotecas en Bogotá | Progetto",
-      "descripcion": "Muebles para bares y discotecas: butacos, barras, sofás, puff y mesas para zonas VIP, fabricados en Bogotá. Asesoría por WhatsApp y visita para tomar medidas.",
+      "descripcion": "Muebles para bares y discotecas: juegos de mesa y sillas, butacos, barras, mesas con hielera y sofás para zonas VIP, fabricados en Bogotá. Asesoría por WhatsApp y visita para tomar medidas.",
       "h1": "Muebles para bares y discotecas",
       "cta": "Pedir asesoría por WhatsApp",
       "intro": [
-        "Montar o renovar un bar empieza por decidir cómo se va a usar el espacio: cuánta gente va a estar en la barra, dónde van las mesas altas y si vas a tener una zona VIP con sofás. En Progetto fabricamos en Bogotá todo el mobiliario para bares y discotecas: butacos, barras, mesas, sofás y puff.",
+        "Montar o renovar un bar empieza por decidir cómo se va a usar el espacio: cuánta gente va a estar en la barra, dónde van las mesas altas y si vas a tener una zona VIP con sofás. En Progetto fabricamos en Bogotá todo el mobiliario para bares y discotecas: juegos de mesa con sillas, butacos, barras, mesas con hielera, sofás y puff. Los juegos de mesa y 4 sillas son de los más pedidos por nuestros clientes de bares.",
         "Te ayudamos a escoger y a distribuir los muebles según el tamaño de tu local y el ambiente que quieres lograr. Puedes pedir ajustes de medidas, colores y tapizados para que todo combine con tu marca.",
         "Escríbenos por WhatsApp contándonos de tu bar. Si estás en Bogotá, también podemos ir a tomar medidas."
       ],
       "wa_mensaje": "Hola, tengo un bar o discoteca y quiero asesoría para los muebles.",
       "wa_visita": "Hola, tengo un bar en Bogotá y quiero agendar una visita para tomar medidas.",
       "secciones": [
+        {"titulo": "Mesa + 4 sillas: los más pedidos por bares", "tipo": "juegos", "max": 12, "enlace": "juegos-de-mesa-y-sillas", "primero": ["juego-hielera-tablon-de-pino", "juego-pardo-alto"]},
+        {"titulo": "Mesas con sofás y puff para zonas VIP", "tipo": "juegos-sofas", "max": 8, "enlace": "mesas-con-sofas-y-puff", "primero": ["juego-hielera-vip"]},
         {"titulo": "Butacos para la barra", "tipo": "butacos", "max": 8, "enlace": "butacos-para-bar"},
         {"titulo": "Barras", "tipo": "barras-recepciones", "max": 8, "enlace": "barras-y-recepciones"},
-        {"titulo": "Mesas con sofás y puff para zonas VIP", "tipo": "juegos-sofas", "max": 8, "enlace": "mesas-con-sofas-y-puff"},
-        {"titulo": "Sofás y puff", "tipo": "sofas-puff", "max": 8, "enlace": "sofas-y-puff"},
-        {"titulo": "Mesas", "tipo": "mesas", "max": 8, "enlace": "mesas-para-restaurante"}
+        {"titulo": "Mesas", "tipo": "mesas", "max": 8, "enlace": "mesas-para-restaurante", "primero": ["mesa-hielera", "mesa-hielera-v2", "mesa-hielera-coctelera-tapa-acero"]},
+        {"titulo": "Sofás y puff", "tipo": "sofas-puff", "max": 8, "enlace": "sofas-y-puff"}
       ],
       "preguntas": [
         ["¿Me ayudan a elegir los muebles para mi bar?", "Sí. Cuéntanos el tamaño de tu local, el estilo que buscas y cuántas personas quieres recibir, y un asesor te arma una propuesta."],

@@ -45,6 +45,10 @@ class Pruebas(unittest.TestCase):
         secciones = g.muebles_de(pagina(), PRODUCTOS)
         self.assertEqual([p["id"] for p in secciones[0][1]], ["b-nuevo", "b-alfa", "b-zeta"])
 
+    def test_primero_pone_muebles_adelante(self):
+        pg = pagina(secciones=[{"titulo": "B", "tipo": "butacos", "primero": ["b-zeta", "no-existe"], "max": 2}])
+        self.assertEqual([p["id"] for p in g.muebles_de(pg, PRODUCTOS)[0][1]], ["b-zeta", "b-nuevo"])
+
     def test_seccion_vacia_se_omite(self):
         pg = pagina(secciones=[{"titulo": "Butacos", "tipo": "butacos"}, {"titulo": "Mesas", "tipo": "mesas"}])
         self.assertEqual([t for t, _ in g.muebles_de(pg, PRODUCTOS)], ["Butacos"])
